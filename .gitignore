@@ -4,3 +4,7 @@
 _ide_helper.php
 .phpstorm.meta.php
 .idea
+/storage
+/bootstrap/cache
+/public/.htaccess
+/public/.htpasswd
