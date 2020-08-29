@@ -11,6 +11,16 @@
 
         <meta name="robots" content="index,follow" />
 
+        @if (isset($currentLanguage) && $currentLanguage['locale'] !== 'en')
+        <link rel="alternate" hreflang="en" href="{{ URL::to('/en') }}" />
+        @endif
+        @if (isset($currentLanguage) && $currentLanguage['locale'] !== 'ru')
+        <link rel="alternate" hreflang="ru" href="{{ URL::to('/ru') }}" />
+        @endif
+        @if (isset($currentLanguage) && $currentLanguage['locale'] !== 'ua')
+        <link rel="alternate" hreflang="ua" href="{{ URL::to('/ua') }}" />
+        @endif
+
         <link rel="apple-touch-icon" sizes="57x57" href="/img/favicon/apple-icon-57x57.png">
         <link rel="apple-touch-icon" sizes="60x60" href="/img/favicon/apple-icon-60x60.png">
         <link rel="apple-touch-icon" sizes="72x72" href="/img/favicon/apple-icon-72x72.png">
