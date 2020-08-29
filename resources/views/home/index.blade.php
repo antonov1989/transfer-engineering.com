@@ -424,9 +424,7 @@
     <script type="text/javascript">
         window.lazyLoadOptions={threshold:100};
     </script>
-    <script src="/js/theme/lazyload.min.js" type="text/javascript"></script>
     <script src="/js/theme/published.js" type="text/javascript"></script>
-    <script src="/js/theme/slick.js" type="text/javascript"></script>
     <script type="text/javascript">
         window.siteWidth=1170;
     </script>
