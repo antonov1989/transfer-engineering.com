@@ -29,17 +29,30 @@
                             <div class="cell v3 container_cell sortable_cell" id="e0556f0a76a54b87adf6664a3e0ac04b">
                                 <div class="blk blk_text blk-no-bg-lpm-449" id="786af05c9d5f436abe308db94a1a3ceb" blk_class="blk_text" data-id="b-786af05c9d5f436abe308db94a1a3ceb">
                                     <div class="blk-data blk-data--pc clearfix ie_css3" font_ids="14">
-                                        <p><span style="color:#FFFFFF;">
-                                                         <span f_id="open_sans_light" f_uid="14" style="font-family:open sans;font-style:normal;font-weight:300;"><span style="font-size: 16px;">@lang('main.footer_block_email')</span>
-                                                             <br><span style="font-size: 16px;">@lang('main.footer_block_address')</span></span></span>
+                                        <p>
+                                            <span style="color:#FFFFFF;">
+                                                         <span f_id="open_sans_light" f_uid="14" style="font-family:open sans;font-style:normal;font-weight:300;">
+                                                             <span style="font-size: 16px;">@lang('main.footer_block_email')</span>
+                                                             <br>
+                                                             <span style="font-size: 16px;">@lang('main.footer_block_address')</span>
+                                                             <br>
+                                                             <span style="font-size: 16px;">© TransferEngineering 2020</span>
+                                                         </span>
+                                            </span>
                                         </p>
                                     </div>
                                     <div class="blk-data blk-data--mobile370 clearfix ie_css3" font_ids="14">
                                         <!--noindex-->
-                                        <p><span style="color: rgb(255, 255, 255); font-size: inherit; text-align: inherit;">
+                                        <p>
+                                            <span style="color: rgb(255, 255, 255); font-size: inherit; text-align: inherit;">
                                                             <span f_id="open_sans_light" f_uid="14" style="font-family: &quot;open sans&quot;; font-style: normal; font-weight: 300; font-size: inherit; text-align: inherit;">
                                                                 <span style="font-size: inherit; text-align: inherit;">@lang('main.footer_block_email')</span>
-                                                                <br><span style="font-size: inherit; text-align: inherit;">@lang('main.footer_block_address')</span></span></span></p>
+                                                                <br><span style="font-size: inherit; text-align: inherit;">@lang('main.footer_block_address')</span>
+                                                                <br>
+                                                                <span style="font-size: 16px;">© TransferEngineering 2020</span>
+                                                            </span>
+                                                </span>
+                                        </p>
                                         <!--/noindex-->
                                     </div>
                                 </div>
