@@ -75,15 +75,14 @@
         </script> --}}
 
         <!-- Global site tag (gtag.js) - Google Analytics -->
-        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-91170331-1"></script>
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-176716853-1"></script>
         <script>
             window.dataLayer = window.dataLayer || [];
             function gtag(){dataLayer.push(arguments);}
             gtag('js', new Date());
 
-            gtag('config', 'UA-91170331-1');
+            gtag('config', 'UA-176716853-1');
         </script>
-
 
         <link rel="stylesheet" type="text/css" href="/css/bootstrap/bootstrap.min.css"/>
         <link rel="stylesheet" type="text/css" href="/css/theme/sites.css"/>
