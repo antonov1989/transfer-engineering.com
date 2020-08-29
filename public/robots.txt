@@ -1,2 +1,3 @@
 User-agent: *
-Host: http://dev.transfer-engineering.com.ua
+Host: http://www.transfer-engineering.com.ua
+Sitemap: https://www.transfer-engineering.com.ua/sitemap.xml
