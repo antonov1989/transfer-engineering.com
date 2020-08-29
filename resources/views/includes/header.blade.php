@@ -56,7 +56,7 @@
                                    <div class="blk-data clearfix ie_css3">
                                        <div class="blk_button_data_wrap r_text ">
                                            <a class="btn-new block-content ie_css3 " act="anchor"
-                                              href="#cbe82f7fb2e644a79bfcfb07cef6f6891" onclick=""
+                                              href="#cbe82f7fb2e644a79bfcfb07cef6f689" onclick=""
                                               data-action-name="anchor" style="">@lang('main.header_button_contact')</a></div>
                                    </div>
                                </div>
