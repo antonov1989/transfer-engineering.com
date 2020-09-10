@@ -1,6 +1,6 @@
 <div blk_class="section" class=" blk_section block-content bg_type_image sprint4 is_parallax is_cover " data-par-speed="100" id="c6c4e43bb06548b79d918e27da7efcf3" data-id="s-c6c4e43bb06548b79d918e27da7efcf3" bg_type="image">
     <div class="section_image_container">
-        <div id="section_image_c6c4e43bb06548b79d918e27da7efcf3" class="section-image is_p" style=" background-image: url('/img/theme/Механика.png'); background-position: 50% 100%; background-repeat: no-repeat; "></div>
+        <div id="section_image_c6c4e43bb06548b79d918e27da7efcf3" class="section-image is_p" style="background-position: 50% 100%; background-repeat: no-repeat; "></div>
     </div>
     <div id="section_image_svg_c6c4e43bb06548b79d918e27da7efcf3" class="svg_wrap section-image__svg" style="display: none;">
         <div class="svg_container"> </div>

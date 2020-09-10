@@ -146,15 +146,25 @@ select {
     float: left;
   }
 }
+#section_image_192d6d88736a4ded9d08de830100a7e2 {
+  background-image: url('../img/theme/TE1.jpg');
+}
+#section_image_d2ba9b638d4e4f4199048f1b33429845 {
+  background-image: url('../img/theme/Завод.jpg');
+}
+#section_image_4937db152635491ebf8ba9400d1840d1,
+#section_image_c6c4e43bb06548b79d918e27da7efcf3 {
+  background-image: url('../img/theme/Механика.jpg');
+}
 @media (max-width: 1000px){
   #section_image_192d6d88736a4ded9d08de830100a7e2 {
-    background-image: url('../img/theme/TE-min.jpg') !important;
+    background-image: url('../img/theme/TE-min.jpg');
   }
   #section_image_d2ba9b638d4e4f4199048f1b33429845 {
-    background-image: url('../img/theme/Завод-min.jpg') !important;
+    background-image: url('../img/theme/Завод-min.jpg');
   }
   #section_image_4937db152635491ebf8ba9400d1840d1,
   #section_image_c6c4e43bb06548b79d918e27da7efcf3 {
-    background-image: url('../img/theme/Механика-min.jpg') !important;
+    background-image: url('../img/theme/Механика-min.jpg');
   }
 }
