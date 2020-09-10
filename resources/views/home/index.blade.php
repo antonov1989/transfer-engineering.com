@@ -14,7 +14,7 @@
                 <div class="section_image_container">
                     <div id="section_image_192d6d88736a4ded9d08de830100a7e2"
                          class="section-image "
-                         style="background-image: url('/img/theme/TE1.jpg'); background-position: 50% 50%; background-repeat: no-repeat; "></div>
+                         style="background-position: 50% 50%; background-repeat: no-repeat; "></div>
                 </div>
                 <div id="section_image_svg_192d6d88736a4ded9d08de830100a7e2" class="svg_wrap section-image__svg" style="display: none;">
                     <div class="svg_container"> </div>

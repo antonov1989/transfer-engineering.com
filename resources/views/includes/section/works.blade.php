@@ -1,6 +1,6 @@
 <div blk_class="section" class=" blk_section block-content bg_type_image sprint4 is_cover " data-par-speed="" id="d2ba9b638d4e4f4199048f1b33429845" data-id="s-d2ba9b638d4e4f4199048f1b33429845" bg_type="image">
     <div class="section_image_container">
-        <div id="section_image_d2ba9b638d4e4f4199048f1b33429845" class="section-image " style=" background-image: url('/img/theme/Завод.png'); background-position: 50% 0%; background-repeat: no-repeat; "></div>
+        <div id="section_image_d2ba9b638d4e4f4199048f1b33429845" class="section-image " style="background-position: 50% 0%; background-repeat: no-repeat; "></div>
     </div>
     <div id="section_image_svg_d2ba9b638d4e4f4199048f1b33429845" class="svg_wrap section-image__svg" style="display: none;">
         <div class="svg_container"> </div>
