@@ -146,3 +146,14 @@ select {
     float: left;
   }
 }
+@media (max-width: 1000px){
+  #section_image_192d6d88736a4ded9d08de830100a7e2 {
+    background-image: url('../img/theme/TE-min.jpg') !important;
+  }
+  #section_image_d2ba9b638d4e4f4199048f1b33429845 {
+    background-image: url('../img/theme/Завод-min.jpg') !important;
+  }
+  #section_image_4937db152635491ebf8ba9400d1840d1 {
+    background-image: url('../img/theme/Механика-min.jpg') !important;
+  }
+}
