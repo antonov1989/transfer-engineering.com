@@ -48,7 +48,7 @@
             </div>
         </div>
     </div>
-    <script type="text/javascript">
+    <script>
         function calcPrice() {
             var priceResult = document.getElementById('priceResult');
             var mode = document.querySelector('input[name="mode"]:checked').value;

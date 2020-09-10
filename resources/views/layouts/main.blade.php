@@ -48,9 +48,9 @@
         <meta name="msapplication-TileImage" content="/img/favicon/ms-icon-144x144.png">
         <meta name="theme-color" content="#ffffff">
         <!-- Jquery -->
-        <script src="/js/libs/jquery.min.js" type="text/javascript"></script>
+        <script src="/js/libs/jquery.min.js"></script>
         <!-- Bootstrap Jquery -->
-        <script src="/js/libs/bootstrap.min.js" type="text/javascript"></script>
+        <script src="/js/libs/bootstrap.min.js"></script>
     </head>
 
     <body>
@@ -576,29 +576,29 @@
         </div>
 
         <!-- Custom js file -->
-        <script src="/js/libs/mmenu/jquery.mmenu.min.all.js" type="text/javascript"></script>
-        <script src="/js/libs/owl-carousel/owl.carousel.min.js" type="text/javascript"></script>
-        <script src="/js/libs/parallax-js/jquery.parallax-1.1.3.js" type="text/javascript"></script>
-        <script src="/js/libs/form-styler/jquery.formstyler.min.js" type="text/javascript"></script>
-        <script src="/js/libs/gallery/jquery.magnific-popup.js" type="text/javascript"></script>
-        <script src="/js/libs/master-slider/masterslider.min.js" type="text/javascript"></script>
-        <script src="/js/libs/jquery.dotdotdot.js" type="text/javascript"></script>
-        <script src="/js/libs/jquery.maskedinput.min.js" type="text/javascript"></script>
-        <script src="/js/libs/validator/is.mobile.js" type="text/javascript"></script>
-        <script src="/js/libs/validator/formcheck.js" type="text/javascript"></script>
-        <script src="/js/libs/notify/toastr.min.js" type="text/javascript"></script>
-        <script src="/js/libs/jquery-ui.js" type="text/javascript"></script>
-        <script src="/js/custom.js" type="text/javascript"></script>
+        <script src="/js/libs/mmenu/jquery.mmenu.min.all.js"></script>
+        <script src="/js/libs/owl-carousel/owl.carousel.min.js"></script>
+        <script src="/js/libs/parallax-js/jquery.parallax-1.1.3.js"></script>
+        <script src="/js/libs/form-styler/jquery.formstyler.min.js"></script>
+        <script src="/js/libs/gallery/jquery.magnific-popup.js"></script>
+        <script src="/js/libs/master-slider/masterslider.min.js"></script>
+        <script src="/js/libs/jquery.dotdotdot.js"></script>
+        <script src="/js/libs/jquery.maskedinput.min.js"></script>
+        <script src="/js/libs/validator/is.mobile.js"></script>
+        <script src="/js/libs/validator/formcheck.js"></script>
+        <script src="/js/libs/notify/toastr.min.js"></script>
+        <script src="/js/libs/jquery-ui.js"></script>
+        <script src="/js/custom.js"></script>
 
-        <script src="/js/libs/isotope/isotope.pkgd.js" type="text/javascript"></script>
-        <script src="/js/libs/isotope/masonry.min.js" type="text/javascript"></script>
-        <script src="/js/libs/isotope/imagesloaded.pkgd.min.js" type="text/javascript"></script>
-        <script src="/js/libs/jquery.stellar.min.js" type="text/javascript"></script>
-        <script src="/js/libs/animated/wow.min.js" type="text/javascript"></script>
-        <script src="/js/libs/waypoints.min.js" type="text/javascript"></script>
-        <script src="/js/libs/ytplayer/jquery.vide.js" type="text/javascript"></script>
+        <script src="/js/libs/isotope/isotope.pkgd.js"></script>
+        <script src="/js/libs/isotope/masonry.min.js"></script>
+        <script src="/js/libs/isotope/imagesloaded.pkgd.min.js"></script>
+        <script src="/js/libs/jquery.stellar.min.js"></script>
+        <script src="/js/libs/animated/wow.min.js"></script>
+        <script src="/js/libs/waypoints.min.js"></script>
+        <script src="/js/libs/ytplayer/jquery.vide.js"></script>
 
-        <script type="text/javascript">
+        <script>
             /*=================================================================
              Parallax Background
              =================================================================*/
