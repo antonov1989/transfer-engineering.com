@@ -95,10 +95,23 @@
 
         window.hasTagWebvisor20 = 0
 
-        /*window.YANDEX_MAPS_API_VERSION='2.1';window.YANDEX_MAPS_API_KEY='4217c84f-2b1a-454a-ac11-02932f16a3a6';
-        FE.add('onload',function(e,t){ try{ window.r330=document.referrer;if(r330.length){setCookie('bm360track',r330)};window.r330=null;;yandexMaps.init(); }catch(err){alert(err);} });FE.add('onready',function(e,t){ try{ initAnchors();;
-        yandexMaps.addMap('cbe82f7fb2e644a79bfcfb07cef6f689','50.4276094','30.3664108');window.initFileFields && initFileFields(10485760,1,10485760);; }catch(err){alert(err);} });
-*/
+        //window.YANDEX_MAPS_API_VERSION='2.1';window.YANDEX_MAPS_API_KEY='4217c84f-2b1a-454a-ac11-02932f16a3a6';
+        FE.add('onload',function(e,t){
+            try{
+                window.r330=document.referrer;
+                if(r330.length){setCookie('bm360track',r330)};
+                window.r330=null;;
+                //yandexMaps.init();
+            }catch(err){alert(err);}
+        });
+        FE.add('onready',function(e,t){
+            try{
+                initAnchors();
+                /*yandexMaps.addMap('cbe82f7fb2e644a79bfcfb07cef6f689','50.4276094','30.3664108');
+                window.initFileFields && initFileFields(10485760,1,10485760);;*/
+            } catch(err){alert(err);}
+        });
+
         if (window.ga) {
             ga(function(t) {
                 window.ga_cid = t.get('clientId');
