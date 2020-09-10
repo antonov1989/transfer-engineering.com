@@ -32,7 +32,7 @@
                                                     <p>
                                                         <span style="line-height:1;">
                                                             <span style="font-size:48px;">
-                                                                <span f_uid="40" style="font-family:roboto;font-style:normal;font-weight:500;">
+                                                                <span  style="font-family:roboto;font-style:normal;font-weight:500;">
                                                                     <h1 style="color:#C61900;">@lang('main.page_h1')</h1>
                                                                 </span></span></span></p>
                                                 </div>
@@ -40,7 +40,7 @@
                                                     <!--noindex-->
                                                     <p><span style="line-height: normal; font-size: inherit; text-align: inherit;">
                                                             <span style="font-size: inherit; text-align: inherit; line-height: normal;">
-                                                                <span f_uid="40" style="font-family: roboto; font-style: normal; font-weight: 500; font-size: inherit; text-align: inherit; line-height: normal;">
+                                                                <span  style="font-family: roboto; font-style: normal; font-weight: 500; font-size: inherit; text-align: inherit; line-height: normal;">
                                                                     <h1 style="color:#C61900; font-size: inherit; text-align: inherit; line-height: normal;">@lang('main.page_h1')</h1>
                                                                 </span></span></span></p>
                                                     <!--/noindex-->
@@ -78,7 +78,7 @@
     </div>
 
     <script src="/js/theme/jquery.js"></script>
-    <script src="/js/theme/jquery-sites.js"></script>
+    <script src="/js/theme/jquery-sites.min.js"></script>
     <script src="/js/theme/bootstrap.min.js"></script>
     <script>
         window.speedUpVideoLoadIsEnabled = true;
@@ -86,7 +86,7 @@
     <script>
         window.lazyLoadOptions={threshold:100};
     </script>
-    <script src="/js/theme/published.js"></script>
+    <script src="/js/theme/published.min.js"></script>
     <script>
         window.siteWidth=1170;
     </script>

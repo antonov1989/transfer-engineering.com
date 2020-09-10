@@ -14,20 +14,20 @@
                         <div class="td_container_cell" cell_id="2c3e896ad7d948f3bfdd7a666061477b" data-cell_id="c-2c3e896ad7d948f3bfdd7a666061477b">
                             <div class="cell v3 container_cell sortable_cell first_cell" id="2c3e896ad7d948f3bfdd7a666061477b">
                                 <div class="blk blk_text blk-no-bg-lpm-449" id="1daa3e57e5494641b77123694bb9b1ef" blk_class="blk_text" data-id="b-1daa3e57e5494641b77123694bb9b1ef">
-                                    <div class="blk-data blk-data--pc clearfix ie_css3" font_ids="38,34">
+                                    <div class="blk-data blk-data--pc clearfix ie_css3" >
                                         <div>
                                             <span style="font-family: roboto; font-size: 36px; color: rgb(255, 255, 255);">
-                                                <span f_uid="34" style="font-style: normal; font-weight: 300;">
+                                                <span  style="font-style: normal; font-weight: 300;">
                                                     @lang('main.request_block_header')
                                                 </span>
                                             </span>
                                         </div>
                                     </div>
-                                    <div class="blk-data blk-data--mobile370 clearfix ie_css3" font_ids="38,34">
+                                    <div class="blk-data blk-data--mobile370 clearfix ie_css3" >
                                         <!--noindex-->
                                         <div>
                                             <span style="font-family: roboto; font-size: inherit; color: rgb(255, 255, 255); text-align: inherit; line-height: normal;">
-                                                <span f_uid="34" style="font-style: normal; font-weight: 300; font-size: inherit; text-align: inherit; line-height: normal;">
+                                                <span  style="font-style: normal; font-weight: 300; font-size: inherit; text-align: inherit; line-height: normal;">
                                                     @lang('main.request_block_header')
                                                 </span>
                                             </span>
@@ -41,21 +41,21 @@
                             <div class="cell v3 container_cell sortable_cell" id="4f71948b78d14671969daceda04d8be6">
                                 <div class="blk blk_box " id="959a845e21984eed835ee8b58d94cc44" blk_class="blk_box" data-id="b-959a845e21984eed835ee8b58d94cc44">
                                     <div class="blk-data clearfix ie_css3">
-                                        <div class="blk_box_self clearfix block-content" bg="" data-is_border_allow="1" style="border:1px solid #C61900;padding:10px 10px;border-radius:5px;background:;">
+                                        <div class="blk_box_self clearfix block-content" data-is_border_allow="1" style="border:1px solid #C61900;padding:10px 10px;border-radius:5px;">
                                             <div class="cell tpl_cell tpl_box_cell sortable_cell l_float " id="271ae2e4c22143cf9d04ac2e505ab2a7" style="width: 100%;">
                                                 <div class="blk blk_text blk-no-bg-lpm-449" id="bc17791858bc4d45ac64ef8ebc5faece" blk_class="blk_text" data-id="b-bc17791858bc4d45ac64ef8ebc5faece">
                                                     <div class="blk-data blk-data--pc clearfix ie_css3" >
-                                                        <p style="text-align: center;"><span style="font-size:60px;"><span f_uid="42" style="font-family:roboto;font-style:normal;font-weight:700;"><span style="line-height:1;"><span style="color:#FFFFFF;">@lang('main.request_block_sub_header')</span></span></span></span></p>
+                                                        <p style="text-align: center;"><span style="font-size:60px;"><span  style="font-family:roboto;font-style:normal;font-weight:700;"><span style="line-height:1;"><span style="color:#FFFFFF;">@lang('main.request_block_sub_header')</span></span></span></span></p>
                                                     </div>
                                                     <div class="blk-data blk-data--mobile370 clearfix ie_css3" >
                                                         <!--noindex-->
-                                                        <p style="text-align: inherit; font-size: inherit; line-height: normal;"><span style="font-size: inherit; text-align: inherit; line-height: normal;"><span f_uid="42" style="font-family: roboto; font-style: normal; font-weight: 700; font-size: inherit; text-align: inherit; line-height: normal;"><span style="line-height: normal; font-size: inherit; text-align: inherit;"><span style="color: rgb(255, 255, 255); font-size: inherit; text-align: inherit; line-height: normal;">@lang('main.request_block_sub_header')</span></span></span></span></p>
+                                                        <p style="text-align: inherit; font-size: inherit; line-height: normal;"><span style="font-size: inherit; text-align: inherit; line-height: normal;"><span  style="font-family: roboto; font-style: normal; font-weight: 700; font-size: inherit; text-align: inherit; line-height: normal;"><span style="line-height: normal; font-size: inherit; text-align: inherit;"><span style="color: rgb(255, 255, 255); font-size: inherit; text-align: inherit; line-height: normal;">@lang('main.request_block_sub_header')</span></span></span></span></p>
                                                         <!--/noindex-->
                                                     </div>
                                                 </div>
                                                 <div class="blk blk_text blk-no-bg-lpm-449" id="5ad013bb6ba0415cb5ced1ed0c41bd85" blk_class="blk_text" data-id="b-5ad013bb6ba0415cb5ced1ed0c41bd85">
                                                     <div class="blk-data blk-data--pc clearfix ie_css3" >
-                                                        <p style="text-align: center;"><span style="font-size:36px;"><span f_uid="40" style="font-family:roboto;font-style:normal;font-weight:500;">
+                                                        <p style="text-align: center;"><span style="font-size:36px;"><span  style="font-family:roboto;font-style:normal;font-weight:500;">
                                                                     <span style="line-height:1;">
                                                                         <span style="color:#C61900;">@lang('main.request_block_sub_desc')</span>
                                                                     </span>
@@ -63,7 +63,7 @@
                                                     </div>
                                                     <div class="blk-data blk-data--mobile370 clearfix ie_css3" >
                                                         <!--noindex-->
-                                                        <p style="text-align: inherit; font-size: inherit; line-height: normal;"><span style="font-size: inherit; text-align: inherit; line-height: normal;"><span f_uid="40" style="font-family: roboto; font-style: normal; font-weight: 500; font-size: inherit; text-align: inherit; line-height: normal;"><span style="line-height: normal; font-size: inherit; text-align: inherit;">
+                                                        <p style="text-align: inherit; font-size: inherit; line-height: normal;"><span style="font-size: inherit; text-align: inherit; line-height: normal;"><span  style="font-family: roboto; font-style: normal; font-weight: 500; font-size: inherit; text-align: inherit; line-height: normal;"><span style="line-height: normal; font-size: inherit; text-align: inherit;">
                                                                         <span style="color: #C61900; font-size: inherit; text-align: inherit; line-height: normal;">@lang('main.request_block_sub_desc')</span>
                                                                     </span></span></span></p>
                                                         <!--/noindex-->

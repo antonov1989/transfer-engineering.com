@@ -6,7 +6,7 @@
         <div class="svg_container"> </div>
     </div>
     <div class="mha clearfix blk_section_inner">
-        <div class="section-cell tpl_cell tpl_section_cell sortable_cell l_float " id="98729728ccc345c8a7746b995722fb63">
+        <article class="section-cell tpl_cell tpl_section_cell sortable_cell l_float " id="98729728ccc345c8a7746b995722fb63">
             <div blk_class="blk_container" class="blk_container v3 cnt-cells-2 orange_cell_resize " id="6f6b2633c41c438386d789f737cd663b" data-id="b-6f6b2633c41c438386d789f737cd663b" type_id="" pos="1">
                 <div class="blk_container_cells_wrap">
                     <div class="blk_container_cells cells-2">
@@ -14,14 +14,13 @@
                             <div class="cell v3 container_cell sortable_cell first_cell" id="47f59ac518e84c30be8737ef11d979c8">
                                 <div class="blk blk_text blk-no-bg-lpm-449" id="39ff791de8ad40098425b4c324b11dc7" blk_class="blk_text" data-id="b-39ff791de8ad40098425b4c324b11dc7">
                                     <div class="blk-data blk-data--pc clearfix ie_css3" >
-                                        <p><span style="color:#C61900;"><span style="line-height:1;">
-                                                    <span style="font-size:56px;">
-                                                        <span f_uid="40"
-                                                              style="font-family:roboto;font-style:normal;font-weight:500;">@lang('main.products_block_header')</span></span></span></span></p>
+                                        <p>
+                                            <h2 style="font-family:roboto;font-style:normal;font-size:56px;line-height:1;font-weight:500;color:#C61900;">@lang('main.products_block_header')</h2>
+                                        </p>
                                     </div>
                                     <div class="blk-data blk-data--mobile370 clearfix ie_css3" >
                                         <!--noindex-->
-                                        <p><span style="color: #C61900; font-size: inherit; text-align: inherit; line-height: normal;"><span style="line-height: normal; font-size: inherit; text-align: inherit;"><span style="font-size: inherit; text-align: inherit; line-height: normal;"><span f_uid="40" style="font-family: roboto; font-style: normal; font-weight: 500; font-size: inherit; text-align: inherit; line-height: normal;">@lang('main.products_block_header')</span></span></span></span></p>
+                                        <p><span style="color: #C61900; font-size: inherit; text-align: inherit; line-height: normal;"><span style="line-height: normal; font-size: inherit; text-align: inherit;"><span style="font-size: inherit; text-align: inherit; line-height: normal;"><span  style="font-family: roboto; font-style: normal; font-weight: 500; font-size: inherit; text-align: inherit; line-height: normal;">@lang('main.products_block_header')</span></span></span></span></p>
                                         <!--/noindex-->
                                     </div>
                                 </div>
@@ -36,7 +35,7 @@
             <div blk_class="blk_container" class="blk_container v3 cnt-cells-3 orange_cell_resize " id="711d63176f894b568686f6b007b47d65" data-id="b-711d63176f894b568686f6b007b47d65" type_id="" pos="6">
                 <div class="blk_container_cells_wrap">
                     <div class="blk_container_cells cells-3">
-                        <div class="td_container_cell" cell_id="0637d6b346c6441fab1dadc10cb7be0d" data-cell_id="c-0637d6b346c6441fab1dadc10cb7be0d">
+                        <figure class="td_container_cell" cell_id="0637d6b346c6441fab1dadc10cb7be0d" data-cell_id="c-0637d6b346c6441fab1dadc10cb7be0d">
                             <div class="cell v3 container_cell sortable_cell first_cell" id="0637d6b346c6441fab1dadc10cb7be0d">
                                 <div class="blk blk_image_ext " id="63ab84a015744ddd8c303251c3c70978" blk_class="blk_image_ext" data-id="b-63ab84a015744ddd8c303251c3c70978">
                                     <div class="blk-data clearfix ie_css3">
@@ -58,17 +57,18 @@
                                     <div class="blk-data blk-data--pc clearfix ie_css3" >
                                         <div style="text-align:center">
                                             <span style="font-size:22px;">
-                                                <span f_uid="34" style="font-family: roboto; font-style: normal; font-weight: 300;">@lang('main.products_item_title1')</span></span></div>
+                                                <figcaption  style="font-family: roboto; font-style: normal; font-weight: 300;">@lang('main.products_item_title1')</figcaption>
+                                            </span></div>
                                     </div>
                                     <div class="blk-data blk-data--mobile370 clearfix ie_css3" >
                                         <!--noindex-->
-                                        <div style="text-align: inherit; font-size: inherit; line-height: normal;"><span style="font-size: inherit; text-align: inherit; line-height: normal;"><span f_uid="34" style="font-family: roboto; font-style: normal; font-weight: 300; font-size: inherit; text-align: inherit; line-height: normal;">@lang('main.products_item_title1')</span></span></div>
+                                        <div style="text-align: inherit; font-size: inherit; line-height: normal;"><span style="font-size: inherit; text-align: inherit; line-height: normal;"><figcaption  style="font-family: roboto; font-style: normal; font-weight: 300; font-size: inherit; text-align: inherit; line-height: normal;">@lang('main.products_item_title1')</figcaption></span></div>
                                         <!--/noindex-->
                                     </div>
                                 </div>
                             </div>
-                        </div>
-                        <div class="td_container_cell" cell_id="9fdfddfa385c450b9cea4dd78fdc162f" data-cell_id="c-9fdfddfa385c450b9cea4dd78fdc162f">
+                        </figure>
+                        <figure class="td_container_cell" cell_id="9fdfddfa385c450b9cea4dd78fdc162f" data-cell_id="c-9fdfddfa385c450b9cea4dd78fdc162f">
                             <div class="cell v3 container_cell sortable_cell" id="9fdfddfa385c450b9cea4dd78fdc162f">
                                 <div class="blk blk_image_ext " id="1d0b92d36b704ce895e7eff077d22fe9" blk_class="blk_image_ext" data-id="b-1d0b92d36b704ce895e7eff077d22fe9">
                                     <div class="blk-data clearfix ie_css3">
@@ -88,17 +88,17 @@
                                 </div>
                                 <div class="blk blk_text blk-no-bg-lpm-449" id="6a5df26871ec4ed7977beec2243c1fbc" blk_class="blk_text" data-id="b-6a5df26871ec4ed7977beec2243c1fbc">
                                     <div class="blk-data blk-data--pc clearfix ie_css3" >
-                                        <div style="text-align: center;"><span style="font-size:22px;"><span f_uid="34" style="font-family: roboto; font-style: normal; font-weight: 300;">@lang('main.products_item_title2')</span></span></div>
+                                        <div style="text-align: center;"><span style="font-size:22px;"><figcaption  style="font-family: roboto; font-style: normal; font-weight: 300;">@lang('main.products_item_title2')</figcaption></span></div>
                                     </div>
                                     <div class="blk-data blk-data--mobile370 clearfix ie_css3" >
                                         <!--noindex-->
-                                        <div style="text-align: inherit; font-size: inherit; line-height: normal;"><span style="font-size: inherit; text-align: inherit; line-height: normal;"><span f_uid="34" style="font-family: roboto; font-style: normal; font-weight: 300; font-size: inherit; text-align: inherit; line-height: normal;">@lang('main.products_item_title2')</span></span></div>
+                                        <div style="text-align: inherit; font-size: inherit; line-height: normal;"><span style="font-size: inherit; text-align: inherit; line-height: normal;"><figcaption  style="font-family: roboto; font-style: normal; font-weight: 300; font-size: inherit; text-align: inherit; line-height: normal;">@lang('main.products_item_title2')</figcaption></span></div>
                                         <!--/noindex-->
                                     </div>
                                 </div>
                             </div>
-                        </div>
-                        <div class="td_container_cell" cell_id="a5c4aca0ee484529ae899280b6ccf3c7" data-cell_id="c-a5c4aca0ee484529ae899280b6ccf3c7">
+                        </figure>
+                        <figure class="td_container_cell" cell_id="a5c4aca0ee484529ae899280b6ccf3c7" data-cell_id="c-a5c4aca0ee484529ae899280b6ccf3c7">
                             <div class="cell v3 container_cell sortable_cell" id="a5c4aca0ee484529ae899280b6ccf3c7">
                                 <div class="blk blk_image_ext " id="573911a50bfb474baa9ecebaa042062c" blk_class="blk_image_ext" data-id="b-573911a50bfb474baa9ecebaa042062c">
                                     <div class="blk-data clearfix ie_css3">
@@ -118,16 +118,16 @@
                                 </div>
                                 <div class="blk blk_text blk-no-bg-lpm-449" id="492065d59c68496b91e097e2a39ed5e5" blk_class="blk_text" data-id="b-492065d59c68496b91e097e2a39ed5e5">
                                     <div class="blk-data blk-data--pc clearfix ie_css3" >
-                                        <div style="text-align: center;"><span style="font-size:22px;"><span f_uid="34" style="font-family: roboto; font-style: normal; font-weight: 300;">@lang('main.products_item_title3')</span></span></div>
+                                        <div style="text-align: center;"><span style="font-size:22px;"><figcaption  style="font-family: roboto; font-style: normal; font-weight: 300;">@lang('main.products_item_title3')</figcaption></span></div>
                                     </div>
                                     <div class="blk-data blk-data--mobile370 clearfix ie_css3" >
                                         <!--noindex-->
-                                        <div style="text-align: inherit; font-size: inherit; line-height: normal;"><span style="font-size: inherit; text-align: inherit; line-height: normal;"><span f_uid="34" style="font-family: roboto; font-style: normal; font-weight: 300; font-size: inherit; text-align: inherit; line-height: normal;">@lang('main.products_item_title3')</span></span></div>
+                                        <div style="text-align: inherit; font-size: inherit; line-height: normal;"><span style="font-size: inherit; text-align: inherit; line-height: normal;"><figcaption  style="font-family: roboto; font-style: normal; font-weight: 300; font-size: inherit; text-align: inherit; line-height: normal;">@lang('main.products_item_title3')</figcaption></span></div>
                                         <!--/noindex-->
                                     </div>
                                 </div>
                             </div>
-                        </div>
+                        </figure>
                     </div>
                 </div>
             </div>
@@ -142,7 +142,7 @@
             <div blk_class="blk_container" class="blk_container v3 cnt-cells-3 orange_cell_resize " id="862cfff6d5f145dfb782477e15248455" data-id="b-862cfff6d5f145dfb782477e15248455" type_id="" pos="9">
                 <div class="blk_container_cells_wrap">
                     <div class="blk_container_cells cells-3">
-                        <div class="td_container_cell" cell_id="c0c38b756ebb4983aeccf9089f4c7c3e" data-cell_id="c-c0c38b756ebb4983aeccf9089f4c7c3e">
+                        <figure class="td_container_cell" cell_id="c0c38b756ebb4983aeccf9089f4c7c3e" data-cell_id="c-c0c38b756ebb4983aeccf9089f4c7c3e">
                             <div class="cell v3 container_cell sortable_cell first_cell" id="c0c38b756ebb4983aeccf9089f4c7c3e">
                                 <div class="blk blk_image_ext " id="0789f9743c85452aa809593caa8d1a2c" blk_class="blk_image_ext" data-id="b-0789f9743c85452aa809593caa8d1a2c">
                                     <div class="blk-data clearfix ie_css3">
@@ -162,17 +162,17 @@
                                 </div>
                                 <div class="blk blk_text blk-no-bg-lpm-449" id="a1c28611861e4977ab1581a140c5ea32" blk_class="blk_text" data-id="b-a1c28611861e4977ab1581a140c5ea32">
                                     <div class="blk-data blk-data--pc clearfix ie_css3" >
-                                        <div style="text-align:center"><span style="font-size:22px;"><span f_uid="34" style="font-family: roboto; font-style: normal; font-weight: 300;">@lang('main.products_item_title4')</span></span></div>
+                                        <div style="text-align:center"><span style="font-size:22px;"><figcaption  style="font-family: roboto; font-style: normal; font-weight: 300;">@lang('main.products_item_title4')</figcaption></span></div>
                                     </div>
                                     <div class="blk-data blk-data--mobile370 clearfix ie_css3" >
                                         <!--noindex-->
-                                        <div style="text-align: inherit; font-size: inherit; line-height: normal;"><span style="font-size: inherit; text-align: inherit; line-height: normal;"><span f_uid="34" style="font-family: roboto; font-style: normal; font-weight: 300; font-size: inherit; text-align: inherit; line-height: normal;">@lang('main.products_item_title4')</span></span></div>
+                                        <div style="text-align: inherit; font-size: inherit; line-height: normal;"><span style="font-size: inherit; text-align: inherit; line-height: normal;"><figcaption  style="font-family: roboto; font-style: normal; font-weight: 300; font-size: inherit; text-align: inherit; line-height: normal;">@lang('main.products_item_title4')</figcaption></span></div>
                                         <!--/noindex-->
                                     </div>
                                 </div>
                             </div>
-                        </div>
-                        <div class="td_container_cell" cell_id="7c5d3567e2284d3ebe168f417fcdfabe" data-cell_id="c-7c5d3567e2284d3ebe168f417fcdfabe">
+                        </figure>
+                        <figure class="td_container_cell" cell_id="7c5d3567e2284d3ebe168f417fcdfabe" data-cell_id="c-7c5d3567e2284d3ebe168f417fcdfabe">
                             <div class="cell v3 container_cell sortable_cell" id="7c5d3567e2284d3ebe168f417fcdfabe">
                                 <div class="blk blk_image_ext " id="b7338ce5a5f24c768fffa50c6a4f53f7" blk_class="blk_image_ext" data-id="b-b7338ce5a5f24c768fffa50c6a4f53f7">
                                     <div class="blk-data clearfix ie_css3">
@@ -192,17 +192,17 @@
                                 </div>
                                 <div class="blk blk_text blk-no-bg-lpm-449" id="189f707ecda5447b9e7f9468623527d2" blk_class="blk_text" data-id="b-189f707ecda5447b9e7f9468623527d2">
                                     <div class="blk-data blk-data--pc clearfix ie_css3" >
-                                        <div style="text-align: center;"><span style="font-size:22px;"><span f_uid="34" style="font-family: roboto; font-style: normal; font-weight: 300;">@lang('main.products_item_title5')</span></span></div>
+                                        <div style="text-align: center;"><span style="font-size:22px;"><figcaption  style="font-family: roboto; font-style: normal; font-weight: 300;">@lang('main.products_item_title5')</figcaption></span></div>
                                     </div>
                                     <div class="blk-data blk-data--mobile370 clearfix ie_css3" >
                                         <!--noindex-->
-                                        <div style="text-align: inherit; font-size: inherit; line-height: normal;"><span style="font-size: inherit; text-align: inherit; line-height: normal;"><span f_uid="34" style="font-family: roboto; font-style: normal; font-weight: 300; font-size: inherit; text-align: inherit; line-height: normal;">@lang('main.products_item_title5')</span></span></div>
+                                        <div style="text-align: inherit; font-size: inherit; line-height: normal;"><span style="font-size: inherit; text-align: inherit; line-height: normal;"><figcaption  style="font-family: roboto; font-style: normal; font-weight: 300; font-size: inherit; text-align: inherit; line-height: normal;">@lang('main.products_item_title5')</figcaption></span></div>
                                         <!--/noindex-->
                                     </div>
                                 </div>
                             </div>
-                        </div>
-                        <div class="td_container_cell" cell_id="25c94e10d6824f429aaa73a87bfe07a8" data-cell_id="c-25c94e10d6824f429aaa73a87bfe07a8">
+                        </figure>
+                        <figure class="td_container_cell" cell_id="25c94e10d6824f429aaa73a87bfe07a8" data-cell_id="c-25c94e10d6824f429aaa73a87bfe07a8">
                             <div class="cell v3 container_cell sortable_cell" id="25c94e10d6824f429aaa73a87bfe07a8">
                                 <div class="blk blk_image_ext " id="6d318141d7a040a6ad42f75d4c5a713d" blk_class="blk_image_ext" data-id="b-6d318141d7a040a6ad42f75d4c5a713d">
                                     <div class="blk-data clearfix ie_css3">
@@ -222,23 +222,22 @@
                                 </div>
                                 <div class="blk blk_text blk-no-bg-lpm-449" id="f3a940a020554675a3311328f005f49f" blk_class="blk_text" data-id="b-f3a940a020554675a3311328f005f49f">
                                     <div class="blk-data blk-data--pc clearfix ie_css3" >
-                                        <div style="text-align:center"><span style="font-size:22px;"><span f_uid="34" style="font-family: roboto; font-style: normal; font-weight: 300;">&nbsp;@lang('main.products_item_title6')</span></span></div>
+                                        <div style="text-align:center"><span style="font-size:22px;"><figcaption  style="font-family: roboto; font-style: normal; font-weight: 300;">&nbsp;@lang('main.products_item_title6')</figcaption></span></div>
                                     </div>
                                     <div class="blk-data blk-data--mobile370 clearfix ie_css3" >
                                         <!--noindex-->
-                                        <div style="text-align: inherit; font-size: inherit; line-height: normal;"><span style="font-size: inherit; text-align: inherit; line-height: normal;"><span f_uid="34" style="font-family: roboto; font-style: normal; font-weight: 300; font-size: inherit; text-align: inherit; line-height: normal;">&nbsp;@lang('main.products_item_title6')</span></span></div>
+                                        <div style="text-align: inherit; font-size: inherit; line-height: normal;"><span style="font-size: inherit; text-align: inherit; line-height: normal;"><figcaption  style="font-family: roboto; font-style: normal; font-weight: 300; font-size: inherit; text-align: inherit; line-height: normal;">&nbsp;@lang('main.products_item_title6')</figcaption></span></div>
                                         <!--/noindex-->
                                     </div>
                                 </div>
                             </div>
-                        </div>
+                        </figure>
                     </div>
                 </div>
             </div>
             <div class="blk blk_divider " id="06c6dcba6a324194bf4dfe13a39eec54" blk_class="blk_divider" data-id="b-06c6dcba6a324194bf4dfe13a39eec54">
                 <div class="blk-data clearfix ie_css3">
                     <div class="blk_divider_self no_text no_sel no_divider_line">
-                        &nbsp;
                         <div class="divider-line "></div>
                     </div>
                 </div>
@@ -246,7 +245,7 @@
             <div blk_class="blk_container" class="blk_container v3 cnt-cells-3 orange_cell_resize " id="862cfff6d5f145dfb782477e15248455" data-id="b-862cfff6d5f145dfb782477e15248455" type_id="" pos="12">
                 <div class="blk_container_cells_wrap">
                     <div class="blk_container_cells cells-3">
-                        <div class="td_container_cell" cell_id="c0c38b756ebb4983aeccf9089f4c7c3e1" data-cell_id="c-c0c38b756ebb4983aeccf9089f4c7c3e1">
+                        <figure class="td_container_cell" cell_id="c0c38b756ebb4983aeccf9089f4c7c3e1" data-cell_id="c-c0c38b756ebb4983aeccf9089f4c7c3e1">
                             <div class="cell v3 container_cell sortable_cell first_cell" id="c0c38b756ebb4983aeccf9089f4c7c3e1">
                                 <div class="blk blk_image_ext " id="0789f9743c85452aa809593caa8d1a2c1" blk_class="blk_image_ext" data-id="b-0789f9743c85452aa809593caa8d1a2c">
                                     <div class="blk-data clearfix ie_css3">
@@ -266,17 +265,17 @@
                                 </div>
                                 <div class="blk blk_text blk-no-bg-lpm-449" id="a1c28611861e4977ab1581a140c5ea321" blk_class="blk_text" data-id="b-a1c28611861e4977ab1581a140c5ea32">
                                     <div class="blk-data blk-data--pc clearfix ie_css3" >
-                                        <div style="text-align:center"><span style="font-size:22px;"><span f_uid="34" style="font-family: roboto; font-style: normal; font-weight: 300;">@lang('main.products_item_title7')</span></span></div>
+                                        <div style="text-align:center"><span style="font-size:22px;"><figcaption  style="font-family: roboto; font-style: normal; font-weight: 300;">@lang('main.products_item_title7')</figcaption></span></div>
                                     </div>
                                     <div class="blk-data blk-data--mobile370 clearfix ie_css3" >
                                         <!--noindex-->
-                                        <div style="text-align: inherit; font-size: inherit; line-height: normal;"><span style="font-size: inherit; text-align: inherit; line-height: normal;"><span f_uid="34" style="font-family: roboto; font-style: normal; font-weight: 300; font-size: inherit; text-align: inherit; line-height: normal;">@lang('main.products_item_title7')</span></span></div>
+                                        <div style="text-align: inherit; font-size: inherit; line-height: normal;"><span style="font-size: inherit; text-align: inherit; line-height: normal;"><figcaption  style="font-family: roboto; font-style: normal; font-weight: 300; font-size: inherit; text-align: inherit; line-height: normal;">@lang('main.products_item_title7')</figcaption></span></div>
                                         <!--/noindex-->
                                     </div>
                                 </div>
                             </div>
-                        </div>
-                        <div class="td_container_cell" cell_id="7c5d3567e2284d3ebe168f417fcdfabe1" data-cell_id="c-7c5d3567e2284d3ebe168f417fcdfabe1">
+                        </figure>
+                        <figure class="td_container_cell" cell_id="7c5d3567e2284d3ebe168f417fcdfabe1" data-cell_id="c-7c5d3567e2284d3ebe168f417fcdfabe1">
                             <div class="cell v3 container_cell sortable_cell" id="7c5d3567e2284d3ebe168f417fcdfabe1">
                                 <div class="blk blk_image_ext " id="b7338ce5a5f24c768fffa50c6a4f53f71" blk_class="blk_image_ext" data-id="b-b7338ce5a5f24c768fffa50c6a4f53f7">
                                     <div class="blk-data clearfix ie_css3">
@@ -296,17 +295,17 @@
                                 </div>
                                 <div class="blk blk_text blk-no-bg-lpm-449" id="189f707ecda5447b9e7f9468623527d21" blk_class="blk_text" data-id="b-189f707ecda5447b9e7f9468623527d2">
                                     <div class="blk-data blk-data--pc clearfix ie_css3" >
-                                        <div style="text-align: center;"><span style="font-size:22px;"><span f_uid="34" style="font-family: roboto; font-style: normal; font-weight: 300;">@lang('main.products_item_title8')</span></span></div>
+                                        <div style="text-align: center;"><span style="font-size:22px;"><figcaption  style="font-family: roboto; font-style: normal; font-weight: 300;">@lang('main.products_item_title8')</figcaption></span></div>
                                     </div>
                                     <div class="blk-data blk-data--mobile370 clearfix ie_css3" >
                                         <!--noindex-->
-                                        <div style="text-align: inherit; font-size: inherit; line-height: normal;"><span style="font-size: inherit; text-align: inherit; line-height: normal;"><span f_uid="34" style="font-family: roboto; font-style: normal; font-weight: 300; font-size: inherit; text-align: inherit; line-height: normal;">@lang('main.products_item_title8')</span></span></div>
+                                        <div style="text-align: inherit; font-size: inherit; line-height: normal;"><span style="font-size: inherit; text-align: inherit; line-height: normal;"><figcaption  style="font-family: roboto; font-style: normal; font-weight: 300; font-size: inherit; text-align: inherit; line-height: normal;">@lang('main.products_item_title8')</figcaption></span></div>
                                         <!--/noindex-->
                                     </div>
                                 </div>
                             </div>
-                        </div>
-                        <div class="td_container_cell" cell_id="25c94e10d6824f429aaa73a87bfe07a81" data-cell_id="c-25c94e10d6824f429aaa73a87bfe07a81">
+                        </figure>
+                        <figure class="td_container_cell" cell_id="25c94e10d6824f429aaa73a87bfe07a81" data-cell_id="c-25c94e10d6824f429aaa73a87bfe07a81">
                             <div class="cell v3 container_cell sortable_cell" id="25c94e10d6824f429aaa73a87bfe07a81">
                                 <div class="blk blk_image_ext " id="6d318141d7a040a6ad42f75d4c5a713d1" blk_class="blk_image_ext" data-id="b-6d318141d7a040a6ad42f75d4c5a713d">
                                     <div class="blk-data clearfix ie_css3">
@@ -326,23 +325,23 @@
                                 </div>
                                 <div class="blk blk_text blk-no-bg-lpm-449" id="f3a940a020554675a3311328f005f49f1" blk_class="blk_text" data-id="b-f3a940a020554675a3311328f005f49f">
                                     <div class="blk-data blk-data--pc clearfix ie_css3" >
-                                        <div style="text-align:center"><span style="font-size:22px;"><span f_uid="34" style="font-family: roboto; font-style: normal; font-weight: 300;">&nbsp;@lang('main.products_item_title9')</span></span></div>
+                                        <div style="text-align:center"><span style="font-size:22px;"><figcaption  style="font-family: roboto; font-style: normal; font-weight: 300;">&nbsp;@lang('main.products_item_title9')</figcaption></span></div>
                                     </div>
                                     <div class="blk-data blk-data--mobile370 clearfix ie_css3" >
                                         <!--noindex-->
-                                        <div style="text-align: inherit; font-size: inherit; line-height: normal;"><span style="font-size: inherit; text-align: inherit; line-height: normal;"><span f_uid="34" style="font-family: roboto; font-style: normal; font-weight: 300; font-size: inherit; text-align: inherit; line-height: normal;">&nbsp;@lang('main.products_item_title9')</span></span></div>
+                                        <div style="text-align: inherit; font-size: inherit; line-height: normal;"><span style="font-size: inherit; text-align: inherit; line-height: normal;"><figcaption  style="font-family: roboto; font-style: normal; font-weight: 300; font-size: inherit; text-align: inherit; line-height: normal;">&nbsp;@lang('main.products_item_title9')</figcaption></span></div>
                                         <!--/noindex-->
                                     </div>
                                 </div>
                             </div>
-                        </div>
+                        </figure>
                     </div>
                 </div>
             </div>
             <div blk_class="blk_container" class="blk_container v3 cnt-cells-3 orange_cell_resize " id="862cfff6d5f145dfb782477e15248455" data-id="b-862cfff6d5f145dfb782477e15248455" type_id="" pos="12">
                 <div class="blk_container_cells_wrap">
                     <div class="blk_container_cells cells-3">
-                        <div class="td_container_cell" cell_id="c0c38b756ebb4983aeccf9089f4c7c3e1" data-cell_id="c-c0c38b756ebb4983aeccf9089f4c7c3e1">
+                        <figure class="td_container_cell" cell_id="c0c38b756ebb4983aeccf9089f4c7c3e1" data-cell_id="c-c0c38b756ebb4983aeccf9089f4c7c3e1">
                             <div class="cell v3 container_cell sortable_cell first_cell" id="c0c38b756ebb4983aeccf9089f4c7c3e1">
                                 <div class="blk blk_image_ext " id="0789f9743c85452aa809593caa8d1a2c1" blk_class="blk_image_ext" data-id="b-0789f9743c85452aa809593caa8d1a2c">
                                     <div class="blk-data clearfix ie_css3">
@@ -362,17 +361,17 @@
                                 </div>
                                 <div class="blk blk_text blk-no-bg-lpm-449" id="a1c28611861e4977ab1581a140c5ea321" blk_class="blk_text" data-id="b-a1c28611861e4977ab1581a140c5ea32">
                                     <div class="blk-data blk-data--pc clearfix ie_css3" >
-                                        <div style="text-align:center"><span style="font-size:22px;"><span f_uid="34" style="font-family: roboto; font-style: normal; font-weight: 300;">@lang('main.products_item_title10')</span></span></div>
+                                        <div style="text-align:center"><span style="font-size:22px;"><figcaption  style="font-family: roboto; font-style: normal; font-weight: 300;">@lang('main.products_item_title10')</figcaption></span></div>
                                     </div>
                                     <div class="blk-data blk-data--mobile370 clearfix ie_css3" >
                                         <!--noindex-->
-                                        <div style="text-align: inherit; font-size: inherit; line-height: normal;"><span style="font-size: inherit; text-align: inherit; line-height: normal;"><span f_uid="34" style="font-family: roboto; font-style: normal; font-weight: 300; font-size: inherit; text-align: inherit; line-height: normal;">@lang('main.products_item_title10')</span></span></div>
+                                        <div style="text-align: inherit; font-size: inherit; line-height: normal;"><span style="font-size: inherit; text-align: inherit; line-height: normal;"><figcaption  style="font-family: roboto; font-style: normal; font-weight: 300; font-size: inherit; text-align: inherit; line-height: normal;">@lang('main.products_item_title10')</figcaption></span></div>
                                         <!--/noindex-->
                                     </div>
                                 </div>
                             </div>
-                        </div>
-                        <div class="td_container_cell" cell_id="7c5d3567e2284d3ebe168f417fcdfabe1" data-cell_id="c-7c5d3567e2284d3ebe168f417fcdfabe1">
+                        </figure>
+                        <figure class="td_container_cell" cell_id="7c5d3567e2284d3ebe168f417fcdfabe1" data-cell_id="c-7c5d3567e2284d3ebe168f417fcdfabe1">
                             <div class="cell v3 container_cell sortable_cell" id="7c5d3567e2284d3ebe168f417fcdfabe1">
                                 <div class="blk blk_image_ext " id="b7338ce5a5f24c768fffa50c6a4f53f71" blk_class="blk_image_ext" data-id="b-b7338ce5a5f24c768fffa50c6a4f53f7">
                                     <div class="blk-data clearfix ie_css3">
@@ -392,17 +391,17 @@
                                 </div>
                                 <div class="blk blk_text blk-no-bg-lpm-449" id="189f707ecda5447b9e7f9468623527d21" blk_class="blk_text" data-id="b-189f707ecda5447b9e7f9468623527d2">
                                     <div class="blk-data blk-data--pc clearfix ie_css3" >
-                                        <div style="text-align: center;"><span style="font-size:22px;"><span f_uid="34" style="font-family: roboto; font-style: normal; font-weight: 300;">@lang('main.products_item_title11')</span></span></div>
+                                        <div style="text-align: center;"><span style="font-size:22px;"><figcaption  style="font-family: roboto; font-style: normal; font-weight: 300;">@lang('main.products_item_title11')</figcaption></span></div>
                                     </div>
                                     <div class="blk-data blk-data--mobile370 clearfix ie_css3" >
                                         <!--noindex-->
-                                        <div style="text-align: inherit; font-size: inherit; line-height: normal;"><span style="font-size: inherit; text-align: inherit; line-height: normal;"><span f_uid="34" style="font-family: roboto; font-style: normal; font-weight: 300; font-size: inherit; text-align: inherit; line-height: normal;">@lang('main.products_item_title11')</span></span></div>
+                                        <div style="text-align: inherit; font-size: inherit; line-height: normal;"><span style="font-size: inherit; text-align: inherit; line-height: normal;"><figcaption  style="font-family: roboto; font-style: normal; font-weight: 300; font-size: inherit; text-align: inherit; line-height: normal;">@lang('main.products_item_title11')</figcaption></span></div>
                                         <!--/noindex-->
                                     </div>
                                 </div>
                             </div>
-                        </div>
-                        <div class="td_container_cell" cell_id="25c94e10d6824f429aaa73a87bfe07a81" data-cell_id="c-25c94e10d6824f429aaa73a87bfe07a81">
+                        </figure>
+                        <figure class="td_container_cell" cell_id="25c94e10d6824f429aaa73a87bfe07a81" data-cell_id="c-25c94e10d6824f429aaa73a87bfe07a81">
                             <div class="cell v3 container_cell sortable_cell" id="25c94e10d6824f429aaa73a87bfe07a81">
                                 <div class="blk blk_image_ext " id="6d318141d7a040a6ad42f75d4c5a713d1" blk_class="blk_image_ext" data-id="b-6d318141d7a040a6ad42f75d4c5a713d">
                                     <div class="blk-data clearfix ie_css3">
@@ -422,16 +421,16 @@
                                 </div>
                                 <div class="blk blk_text blk-no-bg-lpm-449" id="f3a940a020554675a3311328f005f49f1" blk_class="blk_text" data-id="b-f3a940a020554675a3311328f005f49f">
                                     <div class="blk-data blk-data--pc clearfix ie_css3" >
-                                        <div style="text-align:center"><span style="font-size:22px;"><span f_uid="34" style="font-family: roboto; font-style: normal; font-weight: 300;">&nbsp;@lang('main.products_item_title12')</span></span></div>
+                                        <div style="text-align:center"><span style="font-size:22px;"><figcaption  style="font-family: roboto; font-style: normal; font-weight: 300;">&nbsp;@lang('main.products_item_title12')</figcaption></span></div>
                                     </div>
                                     <div class="blk-data blk-data--mobile370 clearfix ie_css3" >
                                         <!--noindex-->
-                                        <div style="text-align: inherit; font-size: inherit; line-height: normal;"><span style="font-size: inherit; text-align: inherit; line-height: normal;"><span f_uid="34" style="font-family: roboto; font-style: normal; font-weight: 300; font-size: inherit; text-align: inherit; line-height: normal;">&nbsp;@lang('main.products_item_title12')</span></span></div>
+                                        <div style="text-align: inherit; font-size: inherit; line-height: normal;"><span style="font-size: inherit; text-align: inherit; line-height: normal;"><figcaption  style="font-family: roboto; font-style: normal; font-weight: 300; font-size: inherit; text-align: inherit; line-height: normal;">&nbsp;@lang('main.products_item_title12')</figcaption></span></div>
                                         <!--/noindex-->
                                     </div>
                                 </div>
                             </div>
-                        </div>
+                        </figure>
                     </div>
                 </div>
             </div>
@@ -522,6 +521,6 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </article>
     </div>
 </div>

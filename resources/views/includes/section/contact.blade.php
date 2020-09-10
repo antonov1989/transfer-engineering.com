@@ -14,24 +14,24 @@
                         <div class="td_container_cell" cell_id="6c9ac570d5994bd287baeea52a627383" data-cell_id="c-6c9ac570d5994bd287baeea52a627383">
                             <div class="cell v3 container_cell sortable_cell first_cell" id="6c9ac570d5994bd287baeea52a627383">
                                 <div class="blk blk_text " id="4d84299dd31f41b4aff19210f9b91d3c" blk_class="blk_text" data-id="b-4d84299dd31f41b4aff19210f9b91d3c">
-                                    <div class="blk-data blk-data--pc clearfix ie_css3" font_ids="36,40">
+                                    <div class="blk-data blk-data--pc clearfix ie_css3" >
                                         <p>
                                                         <span style="font-size:42px;">
-                                                            <span f_uid="40" style="font-family:roboto;font-style:normal;font-weight:500;">
+                                                            <span  style="font-family:roboto;font-style:normal;font-weight:500;">
                                                                 <span style="color:#C61900;">@lang('main.contact_block_header')</span></span>
                                                         </span><br><span style="color:#FFFFFF;">
                                                             <span style="font-size:24px;">
-                                                                <span f_uid="40" style="font-family:roboto;font-style:normal;font-weight:500;">​
+                                                                <span  style="font-family:roboto;font-style:normal;font-weight:500;">​
                                                                 </span>
-                                                                <span f_uid="30" style="font-family:roboto;font-style:normal;font-weight:300;">@lang('main.contact_block_address')</span>
+                                                                <span  style="font-family:roboto;font-style:normal;font-weight:300;">@lang('main.contact_block_address')</span>
                                                             </span></span></p>
                                     </div>
-                                    <div class="blk-data blk-data--mobile370 clearfix ie_css3" font_ids="36,40">
+                                    <div class="blk-data blk-data--mobile370 clearfix ie_css3" >
                                         <!--noindex-->
-                                        <p><span style="font-size: inherit; text-align: inherit; line-height: normal;"><span f_uid="40" style="font-family: roboto; font-style: normal; font-weight: 500; font-size: inherit; text-align: inherit; line-height: normal;"><span style="color: #C61900; font-size: inherit; text-align: inherit; line-height: normal;">НАШ АДРЕС</span>
+                                        <p><span style="font-size: inherit; text-align: inherit; line-height: normal;"><span  style="font-family: roboto; font-style: normal; font-weight: 500; font-size: inherit; text-align: inherit; line-height: normal;"><span style="color: #C61900; font-size: inherit; text-align: inherit; line-height: normal;">НАШ АДРЕС</span>
                                                             </span></span><br><span style="color: rgb(255, 255, 255); font-size: inherit; text-align: inherit; line-height: normal;">
-                                                            <span style="font-size: inherit; text-align: inherit; line-height: normal;"><span f_uid="40" style="font-family: roboto; font-style: normal; font-weight: 500; font-size: inherit; text-align: inherit; line-height: normal;">​</span>
-                                                                <span f_uid="30" style="font-family: roboto; font-style: normal; font-weight: 300; font-size: inherit; text-align: inherit; line-height: normal;">03162, м.Київ, вул. Зодчих, 50-А, офіс 1
+                                                            <span style="font-size: inherit; text-align: inherit; line-height: normal;"><span  style="font-family: roboto; font-style: normal; font-weight: 500; font-size: inherit; text-align: inherit; line-height: normal;">​</span>
+                                                                <span  style="font-family: roboto; font-style: normal; font-weight: 300; font-size: inherit; text-align: inherit; line-height: normal;">03162, м.Київ, вул. Зодчих, 50-А, офіс 1
                                                                     <br>+38 068 233 51 33</span>
                                                             </span></span></p>
                                         <!--/noindex-->

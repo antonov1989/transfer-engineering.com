@@ -15,11 +15,11 @@
                             <div class="cell v3 container_cell sortable_cell first_cell" id="11f8ca146b3246918f34efe033075131">
                                 <div class="blk blk_text blk-no-bg-lpm-449" id="3dff0c2389c24312808c325b13b487d8" blk_class="blk_text" data-id="b-3dff0c2389c24312808c325b13b487d8">
                                     <div class="blk-data blk-data--pc clearfix ie_css3" >
-                                        <div><span style="color:#1C337C;"><span f_uid="38" style="font-family:roboto;font-style:normal;font-weight:400;"><span style="font-size:28px;">Transfer</span></span></span><span style="color:#C61900;"><span f_uid="38" style="font-family:roboto;font-style:normal;font-weight:400;"><span style="font-size:28px;">Engineering</span></span></span></div>
+                                        <div><span style="color:#1C337C;"><span  style="font-family:roboto;font-style:normal;font-weight:400;"><span style="font-size:28px;">Transfer</span></span></span><span style="color:#C61900;"><span  style="font-family:roboto;font-style:normal;font-weight:400;"><span style="font-size:28px;">Engineering</span></span></span></div>
                                     </div>
                                     <div class="blk-data blk-data--mobile370 clearfix ie_css3" >
                                         <!--noindex-->
-                                        <div><span style="color: #1C337C; font-size: inherit; text-align: inherit; line-height: normal;"><span f_uid="38" style="font-family: roboto; font-style: normal; font-weight: 400; font-size: inherit; text-align: inherit; line-height: normal;"><span style="font-size: inherit; text-align: inherit; line-height: normal;">Transfer</span></span></span><span style="color: #C61900; font-size: inherit; text-align: inherit; line-height: normal;"><span f_uid="38" style="font-family: roboto; font-style: normal; font-weight: 400; font-size: inherit; text-align: inherit; line-height: normal;"><span style="font-size: inherit; text-align: inherit; line-height: normal;">Engineering</span></span></span></div>
+                                        <div><span style="color: #1C337C; font-size: inherit; text-align: inherit; line-height: normal;"><span  style="font-family: roboto; font-style: normal; font-weight: 400; font-size: inherit; text-align: inherit; line-height: normal;"><span style="font-size: inherit; text-align: inherit; line-height: normal;">Transfer</span></span></span><span style="color: #C61900; font-size: inherit; text-align: inherit; line-height: normal;"><span  style="font-family: roboto; font-style: normal; font-weight: 400; font-size: inherit; text-align: inherit; line-height: normal;"><span style="font-size: inherit; text-align: inherit; line-height: normal;">Engineering</span></span></span></div>
                                         <!--/noindex-->
                                     </div>
                                 </div>
@@ -31,7 +31,7 @@
                                     <div class="blk-data blk-data--pc clearfix ie_css3" >
                                         <p>
                                             <span style="color:#FFFFFF;">
-                                                         <span f_uid="14" style="font-family:open sans;font-style:normal;font-weight:300;">
+                                                         <span  style="font-family:open sans;font-style:normal;font-weight:300;">
                                                              <span style="font-size: 16px;">@lang('main.footer_block_email')</span>
                                                              <br>
                                                              <span style="font-size: 16px;">@lang('main.footer_block_address')</span>
@@ -45,7 +45,7 @@
                                         <!--noindex-->
                                         <p>
                                             <span style="color: rgb(255, 255, 255); font-size: inherit; text-align: inherit;">
-                                                            <span f_uid="14" style="font-family: &quot;open sans&quot;; font-style: normal; font-weight: 300; font-size: inherit; text-align: inherit;">
+                                                            <span  style="font-family: &quot;open sans&quot;; font-style: normal; font-weight: 300; font-size: inherit; text-align: inherit;">
                                                                 <span style="font-size: inherit; text-align: inherit;">@lang('main.footer_block_email')</span>
                                                                 <br><span style="font-size: inherit; text-align: inherit;">@lang('main.footer_block_address')</span>
                                                                 <br>
@@ -64,7 +64,7 @@
                                     <div class="blk-data blk-data--pc clearfix ie_css3" >
                                         <p style="text-align: right;">
                                                         <span style="color:#FFFFFF;">
-                                                            <span f_uid="14" style="font-family:open sans;font-style:normal;font-weight:300;">
+                                                            <span  style="font-family:open sans;font-style:normal;font-weight:300;">
                                                                 <span style="font-size:28px;">@lang('main.footer_block_phone')</span>
                                                             </span>
                                                         </span>
@@ -74,7 +74,7 @@
                                         <!--noindex-->
                                         <p style="text-align: inherit; font-size: inherit;">
                                                          <span style="color: rgb(255, 255, 255); font-size: inherit; text-align: inherit;">
-                                                         <span f_uid="14" style="font-family: &quot;open sans&quot;; font-style: normal; font-weight: 300; font-size: inherit; text-align: inherit;">
+                                                         <span  style="font-family: &quot;open sans&quot;; font-style: normal; font-weight: 300; font-size: inherit; text-align: inherit;">
                                                          <span style="font-size: inherit; text-align: inherit;">@lang('main.footer_block_phone')</span></span></span>
                                         </p>
                                         <!--/noindex-->
