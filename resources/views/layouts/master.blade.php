@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ $currentLanguage['locale'] }}}">
+<html lang="{{ $currentLanguage['locale'] }}">
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
@@ -17,8 +17,8 @@
         @if (isset($currentLanguage) && $currentLanguage['locale'] !== 'ru')
         <link rel="alternate" hreflang="ru" href="{{ URL::to('/ru') }}" />
         @endif
-        @if (isset($currentLanguage) && $currentLanguage['locale'] !== 'ua')
-        <link rel="alternate" hreflang="ua" href="{{ URL::to('/ua') }}" />
+        @if (isset($currentLanguage) && $currentLanguage['locale'] !== 'uk')
+        <link rel="alternate" hreflang="uk" href="{{ URL::to('/uk') }}" />
         @endif
 
         <link rel="apple-touch-icon" sizes="57x57" href="/img/favicon/apple-icon-57x57.png">

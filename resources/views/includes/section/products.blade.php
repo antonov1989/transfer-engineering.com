@@ -13,15 +13,15 @@
                         <div class="td_container_cell" cell_id="47f59ac518e84c30be8737ef11d979c8" data-cell_id="c-47f59ac518e84c30be8737ef11d979c8">
                             <div class="cell v3 container_cell sortable_cell first_cell" id="47f59ac518e84c30be8737ef11d979c8">
                                 <div class="blk blk_text blk-no-bg-lpm-449" id="39ff791de8ad40098425b4c324b11dc7" blk_class="blk_text" data-id="b-39ff791de8ad40098425b4c324b11dc7">
-                                    <div class="blk-data blk-data--pc clearfix ie_css3" font_ids="40">
+                                    <div class="blk-data blk-data--pc clearfix ie_css3" >
                                         <p><span style="color:#C61900;"><span style="line-height:1;">
                                                     <span style="font-size:56px;">
-                                                        <span f_id="roboto_medium" f_uid="40"
+                                                        <span f_uid="40"
                                                               style="font-family:roboto;font-style:normal;font-weight:500;">@lang('main.products_block_header')</span></span></span></span></p>
                                     </div>
-                                    <div class="blk-data blk-data--mobile370 clearfix ie_css3" font_ids="40">
+                                    <div class="blk-data blk-data--mobile370 clearfix ie_css3" >
                                         <!--noindex-->
-                                        <p><span style="color: #C61900; font-size: inherit; text-align: inherit; line-height: normal;"><span style="line-height: normal; font-size: inherit; text-align: inherit;"><span style="font-size: inherit; text-align: inherit; line-height: normal;"><span f_id="roboto_medium" f_uid="40" style="font-family: roboto; font-style: normal; font-weight: 500; font-size: inherit; text-align: inherit; line-height: normal;">@lang('main.products_block_header')</span></span></span></span></p>
+                                        <p><span style="color: #C61900; font-size: inherit; text-align: inherit; line-height: normal;"><span style="line-height: normal; font-size: inherit; text-align: inherit;"><span style="font-size: inherit; text-align: inherit; line-height: normal;"><span f_uid="40" style="font-family: roboto; font-style: normal; font-weight: 500; font-size: inherit; text-align: inherit; line-height: normal;">@lang('main.products_block_header')</span></span></span></span></p>
                                         <!--/noindex-->
                                     </div>
                                 </div>
@@ -55,14 +55,14 @@
                                     </div>
                                 </div>
                                 <div class="blk blk_text blk-no-bg-lpm-449" id="206984ee1968411489d7cc85c98cc657" blk_class="blk_text" data-id="b-206984ee1968411489d7cc85c98cc657">
-                                    <div class="blk-data blk-data--pc clearfix ie_css3" font_ids="34">
+                                    <div class="blk-data blk-data--pc clearfix ie_css3" >
                                         <div style="text-align:center">
                                             <span style="font-size:22px;">
-                                                <span f_id="roboto_thin" f_uid="34" style="font-family: roboto; font-style: normal; font-weight: 300;">@lang('main.products_item_title1')</span></span></div>
+                                                <span f_uid="34" style="font-family: roboto; font-style: normal; font-weight: 300;">@lang('main.products_item_title1')</span></span></div>
                                     </div>
-                                    <div class="blk-data blk-data--mobile370 clearfix ie_css3" font_ids="34">
+                                    <div class="blk-data blk-data--mobile370 clearfix ie_css3" >
                                         <!--noindex-->
-                                        <div style="text-align: inherit; font-size: inherit; line-height: normal;"><span style="font-size: inherit; text-align: inherit; line-height: normal;"><span f_id="roboto_thin" f_uid="34" style="font-family: roboto; font-style: normal; font-weight: 300; font-size: inherit; text-align: inherit; line-height: normal;">@lang('main.products_item_title1')</span></span></div>
+                                        <div style="text-align: inherit; font-size: inherit; line-height: normal;"><span style="font-size: inherit; text-align: inherit; line-height: normal;"><span f_uid="34" style="font-family: roboto; font-style: normal; font-weight: 300; font-size: inherit; text-align: inherit; line-height: normal;">@lang('main.products_item_title1')</span></span></div>
                                         <!--/noindex-->
                                     </div>
                                 </div>
@@ -87,12 +87,12 @@
                                     </div>
                                 </div>
                                 <div class="blk blk_text blk-no-bg-lpm-449" id="6a5df26871ec4ed7977beec2243c1fbc" blk_class="blk_text" data-id="b-6a5df26871ec4ed7977beec2243c1fbc">
-                                    <div class="blk-data blk-data--pc clearfix ie_css3" font_ids="34">
-                                        <div style="text-align: center;"><span style="font-size:22px;"><span f_id="roboto_thin" f_uid="34" style="font-family: roboto; font-style: normal; font-weight: 300;">@lang('main.products_item_title2')</span></span></div>
+                                    <div class="blk-data blk-data--pc clearfix ie_css3" >
+                                        <div style="text-align: center;"><span style="font-size:22px;"><span f_uid="34" style="font-family: roboto; font-style: normal; font-weight: 300;">@lang('main.products_item_title2')</span></span></div>
                                     </div>
-                                    <div class="blk-data blk-data--mobile370 clearfix ie_css3" font_ids="34">
+                                    <div class="blk-data blk-data--mobile370 clearfix ie_css3" >
                                         <!--noindex-->
-                                        <div style="text-align: inherit; font-size: inherit; line-height: normal;"><span style="font-size: inherit; text-align: inherit; line-height: normal;"><span f_id="roboto_thin" f_uid="34" style="font-family: roboto; font-style: normal; font-weight: 300; font-size: inherit; text-align: inherit; line-height: normal;">@lang('main.products_item_title2')</span></span></div>
+                                        <div style="text-align: inherit; font-size: inherit; line-height: normal;"><span style="font-size: inherit; text-align: inherit; line-height: normal;"><span f_uid="34" style="font-family: roboto; font-style: normal; font-weight: 300; font-size: inherit; text-align: inherit; line-height: normal;">@lang('main.products_item_title2')</span></span></div>
                                         <!--/noindex-->
                                     </div>
                                 </div>
@@ -117,12 +117,12 @@
                                     </div>
                                 </div>
                                 <div class="blk blk_text blk-no-bg-lpm-449" id="492065d59c68496b91e097e2a39ed5e5" blk_class="blk_text" data-id="b-492065d59c68496b91e097e2a39ed5e5">
-                                    <div class="blk-data blk-data--pc clearfix ie_css3" font_ids="34">
-                                        <div style="text-align: center;"><span style="font-size:22px;"><span f_id="roboto_thin" f_uid="34" style="font-family: roboto; font-style: normal; font-weight: 300;">@lang('main.products_item_title3')</span></span></div>
+                                    <div class="blk-data blk-data--pc clearfix ie_css3" >
+                                        <div style="text-align: center;"><span style="font-size:22px;"><span f_uid="34" style="font-family: roboto; font-style: normal; font-weight: 300;">@lang('main.products_item_title3')</span></span></div>
                                     </div>
-                                    <div class="blk-data blk-data--mobile370 clearfix ie_css3" font_ids="34">
+                                    <div class="blk-data blk-data--mobile370 clearfix ie_css3" >
                                         <!--noindex-->
-                                        <div style="text-align: inherit; font-size: inherit; line-height: normal;"><span style="font-size: inherit; text-align: inherit; line-height: normal;"><span f_id="roboto_thin" f_uid="34" style="font-family: roboto; font-style: normal; font-weight: 300; font-size: inherit; text-align: inherit; line-height: normal;">@lang('main.products_item_title3')</span></span></div>
+                                        <div style="text-align: inherit; font-size: inherit; line-height: normal;"><span style="font-size: inherit; text-align: inherit; line-height: normal;"><span f_uid="34" style="font-family: roboto; font-style: normal; font-weight: 300; font-size: inherit; text-align: inherit; line-height: normal;">@lang('main.products_item_title3')</span></span></div>
                                         <!--/noindex-->
                                     </div>
                                 </div>
@@ -161,12 +161,12 @@
                                     </div>
                                 </div>
                                 <div class="blk blk_text blk-no-bg-lpm-449" id="a1c28611861e4977ab1581a140c5ea32" blk_class="blk_text" data-id="b-a1c28611861e4977ab1581a140c5ea32">
-                                    <div class="blk-data blk-data--pc clearfix ie_css3" font_ids="34">
-                                        <div style="text-align:center"><span style="font-size:22px;"><span f_id="roboto_thin" f_uid="34" style="font-family: roboto; font-style: normal; font-weight: 300;">@lang('main.products_item_title4')</span></span></div>
+                                    <div class="blk-data blk-data--pc clearfix ie_css3" >
+                                        <div style="text-align:center"><span style="font-size:22px;"><span f_uid="34" style="font-family: roboto; font-style: normal; font-weight: 300;">@lang('main.products_item_title4')</span></span></div>
                                     </div>
-                                    <div class="blk-data blk-data--mobile370 clearfix ie_css3" font_ids="34">
+                                    <div class="blk-data blk-data--mobile370 clearfix ie_css3" >
                                         <!--noindex-->
-                                        <div style="text-align: inherit; font-size: inherit; line-height: normal;"><span style="font-size: inherit; text-align: inherit; line-height: normal;"><span f_id="roboto_thin" f_uid="34" style="font-family: roboto; font-style: normal; font-weight: 300; font-size: inherit; text-align: inherit; line-height: normal;">@lang('main.products_item_title4')</span></span></div>
+                                        <div style="text-align: inherit; font-size: inherit; line-height: normal;"><span style="font-size: inherit; text-align: inherit; line-height: normal;"><span f_uid="34" style="font-family: roboto; font-style: normal; font-weight: 300; font-size: inherit; text-align: inherit; line-height: normal;">@lang('main.products_item_title4')</span></span></div>
                                         <!--/noindex-->
                                     </div>
                                 </div>
@@ -191,12 +191,12 @@
                                     </div>
                                 </div>
                                 <div class="blk blk_text blk-no-bg-lpm-449" id="189f707ecda5447b9e7f9468623527d2" blk_class="blk_text" data-id="b-189f707ecda5447b9e7f9468623527d2">
-                                    <div class="blk-data blk-data--pc clearfix ie_css3" font_ids="34">
-                                        <div style="text-align: center;"><span style="font-size:22px;"><span f_id="roboto_thin" f_uid="34" style="font-family: roboto; font-style: normal; font-weight: 300;">@lang('main.products_item_title5')</span></span></div>
+                                    <div class="blk-data blk-data--pc clearfix ie_css3" >
+                                        <div style="text-align: center;"><span style="font-size:22px;"><span f_uid="34" style="font-family: roboto; font-style: normal; font-weight: 300;">@lang('main.products_item_title5')</span></span></div>
                                     </div>
-                                    <div class="blk-data blk-data--mobile370 clearfix ie_css3" font_ids="34">
+                                    <div class="blk-data blk-data--mobile370 clearfix ie_css3" >
                                         <!--noindex-->
-                                        <div style="text-align: inherit; font-size: inherit; line-height: normal;"><span style="font-size: inherit; text-align: inherit; line-height: normal;"><span f_id="roboto_thin" f_uid="34" style="font-family: roboto; font-style: normal; font-weight: 300; font-size: inherit; text-align: inherit; line-height: normal;">@lang('main.products_item_title5')</span></span></div>
+                                        <div style="text-align: inherit; font-size: inherit; line-height: normal;"><span style="font-size: inherit; text-align: inherit; line-height: normal;"><span f_uid="34" style="font-family: roboto; font-style: normal; font-weight: 300; font-size: inherit; text-align: inherit; line-height: normal;">@lang('main.products_item_title5')</span></span></div>
                                         <!--/noindex-->
                                     </div>
                                 </div>
@@ -221,12 +221,12 @@
                                     </div>
                                 </div>
                                 <div class="blk blk_text blk-no-bg-lpm-449" id="f3a940a020554675a3311328f005f49f" blk_class="blk_text" data-id="b-f3a940a020554675a3311328f005f49f">
-                                    <div class="blk-data blk-data--pc clearfix ie_css3" font_ids="34">
-                                        <div style="text-align:center"><span style="font-size:22px;"><span f_id="roboto_thin" f_uid="34" style="font-family: roboto; font-style: normal; font-weight: 300;">&nbsp;@lang('main.products_item_title6')</span></span></div>
+                                    <div class="blk-data blk-data--pc clearfix ie_css3" >
+                                        <div style="text-align:center"><span style="font-size:22px;"><span f_uid="34" style="font-family: roboto; font-style: normal; font-weight: 300;">&nbsp;@lang('main.products_item_title6')</span></span></div>
                                     </div>
-                                    <div class="blk-data blk-data--mobile370 clearfix ie_css3" font_ids="34">
+                                    <div class="blk-data blk-data--mobile370 clearfix ie_css3" >
                                         <!--noindex-->
-                                        <div style="text-align: inherit; font-size: inherit; line-height: normal;"><span style="font-size: inherit; text-align: inherit; line-height: normal;"><span f_id="roboto_thin" f_uid="34" style="font-family: roboto; font-style: normal; font-weight: 300; font-size: inherit; text-align: inherit; line-height: normal;">&nbsp;@lang('main.products_item_title6')</span></span></div>
+                                        <div style="text-align: inherit; font-size: inherit; line-height: normal;"><span style="font-size: inherit; text-align: inherit; line-height: normal;"><span f_uid="34" style="font-family: roboto; font-style: normal; font-weight: 300; font-size: inherit; text-align: inherit; line-height: normal;">&nbsp;@lang('main.products_item_title6')</span></span></div>
                                         <!--/noindex-->
                                     </div>
                                 </div>
@@ -265,12 +265,12 @@
                                     </div>
                                 </div>
                                 <div class="blk blk_text blk-no-bg-lpm-449" id="a1c28611861e4977ab1581a140c5ea321" blk_class="blk_text" data-id="b-a1c28611861e4977ab1581a140c5ea32">
-                                    <div class="blk-data blk-data--pc clearfix ie_css3" font_ids="34">
-                                        <div style="text-align:center"><span style="font-size:22px;"><span f_id="roboto_thin" f_uid="34" style="font-family: roboto; font-style: normal; font-weight: 300;">@lang('main.products_item_title7')</span></span></div>
+                                    <div class="blk-data blk-data--pc clearfix ie_css3" >
+                                        <div style="text-align:center"><span style="font-size:22px;"><span f_uid="34" style="font-family: roboto; font-style: normal; font-weight: 300;">@lang('main.products_item_title7')</span></span></div>
                                     </div>
-                                    <div class="blk-data blk-data--mobile370 clearfix ie_css3" font_ids="34">
+                                    <div class="blk-data blk-data--mobile370 clearfix ie_css3" >
                                         <!--noindex-->
-                                        <div style="text-align: inherit; font-size: inherit; line-height: normal;"><span style="font-size: inherit; text-align: inherit; line-height: normal;"><span f_id="roboto_thin" f_uid="34" style="font-family: roboto; font-style: normal; font-weight: 300; font-size: inherit; text-align: inherit; line-height: normal;">@lang('main.products_item_title7')</span></span></div>
+                                        <div style="text-align: inherit; font-size: inherit; line-height: normal;"><span style="font-size: inherit; text-align: inherit; line-height: normal;"><span f_uid="34" style="font-family: roboto; font-style: normal; font-weight: 300; font-size: inherit; text-align: inherit; line-height: normal;">@lang('main.products_item_title7')</span></span></div>
                                         <!--/noindex-->
                                     </div>
                                 </div>
@@ -295,12 +295,12 @@
                                     </div>
                                 </div>
                                 <div class="blk blk_text blk-no-bg-lpm-449" id="189f707ecda5447b9e7f9468623527d21" blk_class="blk_text" data-id="b-189f707ecda5447b9e7f9468623527d2">
-                                    <div class="blk-data blk-data--pc clearfix ie_css3" font_ids="34">
-                                        <div style="text-align: center;"><span style="font-size:22px;"><span f_id="roboto_thin" f_uid="34" style="font-family: roboto; font-style: normal; font-weight: 300;">@lang('main.products_item_title8')</span></span></div>
+                                    <div class="blk-data blk-data--pc clearfix ie_css3" >
+                                        <div style="text-align: center;"><span style="font-size:22px;"><span f_uid="34" style="font-family: roboto; font-style: normal; font-weight: 300;">@lang('main.products_item_title8')</span></span></div>
                                     </div>
-                                    <div class="blk-data blk-data--mobile370 clearfix ie_css3" font_ids="34">
+                                    <div class="blk-data blk-data--mobile370 clearfix ie_css3" >
                                         <!--noindex-->
-                                        <div style="text-align: inherit; font-size: inherit; line-height: normal;"><span style="font-size: inherit; text-align: inherit; line-height: normal;"><span f_id="roboto_thin" f_uid="34" style="font-family: roboto; font-style: normal; font-weight: 300; font-size: inherit; text-align: inherit; line-height: normal;">@lang('main.products_item_title8')</span></span></div>
+                                        <div style="text-align: inherit; font-size: inherit; line-height: normal;"><span style="font-size: inherit; text-align: inherit; line-height: normal;"><span f_uid="34" style="font-family: roboto; font-style: normal; font-weight: 300; font-size: inherit; text-align: inherit; line-height: normal;">@lang('main.products_item_title8')</span></span></div>
                                         <!--/noindex-->
                                     </div>
                                 </div>
@@ -325,12 +325,12 @@
                                     </div>
                                 </div>
                                 <div class="blk blk_text blk-no-bg-lpm-449" id="f3a940a020554675a3311328f005f49f1" blk_class="blk_text" data-id="b-f3a940a020554675a3311328f005f49f">
-                                    <div class="blk-data blk-data--pc clearfix ie_css3" font_ids="34">
-                                        <div style="text-align:center"><span style="font-size:22px;"><span f_id="roboto_thin" f_uid="34" style="font-family: roboto; font-style: normal; font-weight: 300;">&nbsp;@lang('main.products_item_title9')</span></span></div>
+                                    <div class="blk-data blk-data--pc clearfix ie_css3" >
+                                        <div style="text-align:center"><span style="font-size:22px;"><span f_uid="34" style="font-family: roboto; font-style: normal; font-weight: 300;">&nbsp;@lang('main.products_item_title9')</span></span></div>
                                     </div>
-                                    <div class="blk-data blk-data--mobile370 clearfix ie_css3" font_ids="34">
+                                    <div class="blk-data blk-data--mobile370 clearfix ie_css3" >
                                         <!--noindex-->
-                                        <div style="text-align: inherit; font-size: inherit; line-height: normal;"><span style="font-size: inherit; text-align: inherit; line-height: normal;"><span f_id="roboto_thin" f_uid="34" style="font-family: roboto; font-style: normal; font-weight: 300; font-size: inherit; text-align: inherit; line-height: normal;">&nbsp;@lang('main.products_item_title9')</span></span></div>
+                                        <div style="text-align: inherit; font-size: inherit; line-height: normal;"><span style="font-size: inherit; text-align: inherit; line-height: normal;"><span f_uid="34" style="font-family: roboto; font-style: normal; font-weight: 300; font-size: inherit; text-align: inherit; line-height: normal;">&nbsp;@lang('main.products_item_title9')</span></span></div>
                                         <!--/noindex-->
                                     </div>
                                 </div>
@@ -361,12 +361,12 @@
                                     </div>
                                 </div>
                                 <div class="blk blk_text blk-no-bg-lpm-449" id="a1c28611861e4977ab1581a140c5ea321" blk_class="blk_text" data-id="b-a1c28611861e4977ab1581a140c5ea32">
-                                    <div class="blk-data blk-data--pc clearfix ie_css3" font_ids="34">
-                                        <div style="text-align:center"><span style="font-size:22px;"><span f_id="roboto_thin" f_uid="34" style="font-family: roboto; font-style: normal; font-weight: 300;">@lang('main.products_item_title10')</span></span></div>
+                                    <div class="blk-data blk-data--pc clearfix ie_css3" >
+                                        <div style="text-align:center"><span style="font-size:22px;"><span f_uid="34" style="font-family: roboto; font-style: normal; font-weight: 300;">@lang('main.products_item_title10')</span></span></div>
                                     </div>
-                                    <div class="blk-data blk-data--mobile370 clearfix ie_css3" font_ids="34">
+                                    <div class="blk-data blk-data--mobile370 clearfix ie_css3" >
                                         <!--noindex-->
-                                        <div style="text-align: inherit; font-size: inherit; line-height: normal;"><span style="font-size: inherit; text-align: inherit; line-height: normal;"><span f_id="roboto_thin" f_uid="34" style="font-family: roboto; font-style: normal; font-weight: 300; font-size: inherit; text-align: inherit; line-height: normal;">@lang('main.products_item_title10')</span></span></div>
+                                        <div style="text-align: inherit; font-size: inherit; line-height: normal;"><span style="font-size: inherit; text-align: inherit; line-height: normal;"><span f_uid="34" style="font-family: roboto; font-style: normal; font-weight: 300; font-size: inherit; text-align: inherit; line-height: normal;">@lang('main.products_item_title10')</span></span></div>
                                         <!--/noindex-->
                                     </div>
                                 </div>
@@ -391,12 +391,12 @@
                                     </div>
                                 </div>
                                 <div class="blk blk_text blk-no-bg-lpm-449" id="189f707ecda5447b9e7f9468623527d21" blk_class="blk_text" data-id="b-189f707ecda5447b9e7f9468623527d2">
-                                    <div class="blk-data blk-data--pc clearfix ie_css3" font_ids="34">
-                                        <div style="text-align: center;"><span style="font-size:22px;"><span f_id="roboto_thin" f_uid="34" style="font-family: roboto; font-style: normal; font-weight: 300;">@lang('main.products_item_title11')</span></span></div>
+                                    <div class="blk-data blk-data--pc clearfix ie_css3" >
+                                        <div style="text-align: center;"><span style="font-size:22px;"><span f_uid="34" style="font-family: roboto; font-style: normal; font-weight: 300;">@lang('main.products_item_title11')</span></span></div>
                                     </div>
-                                    <div class="blk-data blk-data--mobile370 clearfix ie_css3" font_ids="34">
+                                    <div class="blk-data blk-data--mobile370 clearfix ie_css3" >
                                         <!--noindex-->
-                                        <div style="text-align: inherit; font-size: inherit; line-height: normal;"><span style="font-size: inherit; text-align: inherit; line-height: normal;"><span f_id="roboto_thin" f_uid="34" style="font-family: roboto; font-style: normal; font-weight: 300; font-size: inherit; text-align: inherit; line-height: normal;">@lang('main.products_item_title11')</span></span></div>
+                                        <div style="text-align: inherit; font-size: inherit; line-height: normal;"><span style="font-size: inherit; text-align: inherit; line-height: normal;"><span f_uid="34" style="font-family: roboto; font-style: normal; font-weight: 300; font-size: inherit; text-align: inherit; line-height: normal;">@lang('main.products_item_title11')</span></span></div>
                                         <!--/noindex-->
                                     </div>
                                 </div>
@@ -421,12 +421,12 @@
                                     </div>
                                 </div>
                                 <div class="blk blk_text blk-no-bg-lpm-449" id="f3a940a020554675a3311328f005f49f1" blk_class="blk_text" data-id="b-f3a940a020554675a3311328f005f49f">
-                                    <div class="blk-data blk-data--pc clearfix ie_css3" font_ids="34">
-                                        <div style="text-align:center"><span style="font-size:22px;"><span f_id="roboto_thin" f_uid="34" style="font-family: roboto; font-style: normal; font-weight: 300;">&nbsp;@lang('main.products_item_title12')</span></span></div>
+                                    <div class="blk-data blk-data--pc clearfix ie_css3" >
+                                        <div style="text-align:center"><span style="font-size:22px;"><span f_uid="34" style="font-family: roboto; font-style: normal; font-weight: 300;">&nbsp;@lang('main.products_item_title12')</span></span></div>
                                     </div>
-                                    <div class="blk-data blk-data--mobile370 clearfix ie_css3" font_ids="34">
+                                    <div class="blk-data blk-data--mobile370 clearfix ie_css3" >
                                         <!--noindex-->
-                                        <div style="text-align: inherit; font-size: inherit; line-height: normal;"><span style="font-size: inherit; text-align: inherit; line-height: normal;"><span f_id="roboto_thin" f_uid="34" style="font-family: roboto; font-style: normal; font-weight: 300; font-size: inherit; text-align: inherit; line-height: normal;">&nbsp;@lang('main.products_item_title12')</span></span></div>
+                                        <div style="text-align: inherit; font-size: inherit; line-height: normal;"><span style="font-size: inherit; text-align: inherit; line-height: normal;"><span f_uid="34" style="font-family: roboto; font-style: normal; font-weight: 300; font-size: inherit; text-align: inherit; line-height: normal;">&nbsp;@lang('main.products_item_title12')</span></span></div>
                                         <!--/noindex-->
                                     </div>
                                 </div>

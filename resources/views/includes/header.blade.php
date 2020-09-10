@@ -13,11 +13,11 @@
                        <div class="td_container_cell item_logo" cell_id="3db52d2e8a7942449e45708c059cc0d2" data-cell_id="c-3db52d2e8a7942449e45708c059cc0d2">
                            <div class="cell v3 container_cell sortable_cell first_cell" id="3db52d2e8a7942449e45708c059cc0d2">
                                <div class="blk blk_text blk-no-bg-lpm-449" id="669510f361b94a9d815e95e29b97c203" blk_class="blk_text" data-id="b-669510f361b94a9d815e95e29b97c203">
-                                   <div class="blk-data blk-data--pc clearfix ie_css3" font_ids="38">
+                                   <div class="blk-data blk-data--pc clearfix ie_css3" >
                                        <img src="/img/logo.png" alt="Transfer Engineering"
                                             style="max-width: auto; width: 170px;" />
                                    </div>
-                                   <div class="blk-data blk-data--mobile370 clearfix ie_css3" font_ids="38">
+                                   <div class="blk-data blk-data--mobile370 clearfix ie_css3" >
                                        <img src="/img/logo.png" alt="Transfer Engineering"
                                             style="max-width: auto; width: 170px;" />
                                    </div>
@@ -68,7 +68,7 @@
                                    <select onchange="window.location.href = this.value"
                                            style="width: 60px">
                                        <option value="/en"{{ isset($currentLanguage) && $currentLanguage['locale'] === 'en' ? ' selected="selected"' : '' }}>EN</option>
-                                       <option value="/ua"{{ isset($currentLanguage) && $currentLanguage['locale'] === 'ua' ? ' selected="selected"' : '' }}>UA</option>
+                                       <option value="/uk"{{ isset($currentLanguage) && $currentLanguage['locale'] === 'uk' ? ' selected="selected"' : '' }}>UA</option>
                                        <option value="/ru"{{ isset($currentLanguage) && $currentLanguage['locale'] === 'ru' ? ' selected="selected"' : '' }}>RU</option>
                                    </select>
                                </div>

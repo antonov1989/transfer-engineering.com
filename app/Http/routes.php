@@ -32,7 +32,7 @@ Route::post('/api/sendMessage', 'HomeController@sendMessage')->name('sendMessage
 
 /*
 Route::get('/{locale}', function ($locale) {
-    if (! in_array($locale, ['en', 'ru', 'ua'])) {
+    if (! in_array($locale, ['en', 'ru', 'uk'])) {
         abort(400);
     }
     

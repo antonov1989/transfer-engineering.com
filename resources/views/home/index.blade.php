@@ -28,19 +28,19 @@
                                     <div class="td_container_cell" cell_id="a5c5fab8345a48c0943de0f4568b8d25" data-cell_id="c-a5c5fab8345a48c0943de0f4568b8d25">
                                         <div class="cell v3 container_cell sortable_cell first_cell" id="a5c5fab8345a48c0943de0f4568b8d25">
                                             <div class="blk blk_text blk-no-bg-lpm-449" id="ba9a55ee9d514731bc7e5a2851fa4ec9" blk_class="blk_text" data-id="b-ba9a55ee9d514731bc7e5a2851fa4ec9">
-                                                <div class="blk-data blk-data--pc clearfix ie_css3" font_ids="40">
+                                                <div class="blk-data blk-data--pc clearfix ie_css3" >
                                                     <p>
                                                         <span style="line-height:1;">
                                                             <span style="font-size:48px;">
-                                                                <span f_id="roboto_medium" f_uid="40" style="font-family:roboto;font-style:normal;font-weight:500;">
+                                                                <span f_uid="40" style="font-family:roboto;font-style:normal;font-weight:500;">
                                                                     <h1 style="color:#C61900;">@lang('main.page_h1')</h1>
                                                                 </span></span></span></p>
                                                 </div>
-                                                <div class="blk-data blk-data--mobile370 clearfix ie_css3" font_ids="40">
+                                                <div class="blk-data blk-data--mobile370 clearfix ie_css3" >
                                                     <!--noindex-->
                                                     <p><span style="line-height: normal; font-size: inherit; text-align: inherit;">
                                                             <span style="font-size: inherit; text-align: inherit; line-height: normal;">
-                                                                <span f_id="roboto_medium" f_uid="40" style="font-family: roboto; font-style: normal; font-weight: 500; font-size: inherit; text-align: inherit; line-height: normal;">
+                                                                <span f_uid="40" style="font-family: roboto; font-style: normal; font-weight: 500; font-size: inherit; text-align: inherit; line-height: normal;">
                                                                     <h1 style="color:#C61900; font-size: inherit; text-align: inherit; line-height: normal;">@lang('main.page_h1')</h1>
                                                                 </span></span></span></p>
                                                     <!--/noindex-->

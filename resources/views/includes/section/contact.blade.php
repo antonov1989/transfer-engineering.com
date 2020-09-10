@@ -17,21 +17,21 @@
                                     <div class="blk-data blk-data--pc clearfix ie_css3" font_ids="36,40">
                                         <p>
                                                         <span style="font-size:42px;">
-                                                            <span f_id="roboto_medium" f_uid="40" style="font-family:roboto;font-style:normal;font-weight:500;">
+                                                            <span f_uid="40" style="font-family:roboto;font-style:normal;font-weight:500;">
                                                                 <span style="color:#C61900;">@lang('main.contact_block_header')</span></span>
                                                         </span><br><span style="color:#FFFFFF;">
                                                             <span style="font-size:24px;">
-                                                                <span f_id="roboto_medium" f_uid="40" style="font-family:roboto;font-style:normal;font-weight:500;">​
+                                                                <span f_uid="40" style="font-family:roboto;font-style:normal;font-weight:500;">​
                                                                 </span>
-                                                                <span f_id="roboto_light" f_uid="30" style="font-family:roboto;font-style:normal;font-weight:300;">@lang('main.contact_block_address')</span>
+                                                                <span f_uid="30" style="font-family:roboto;font-style:normal;font-weight:300;">@lang('main.contact_block_address')</span>
                                                             </span></span></p>
                                     </div>
                                     <div class="blk-data blk-data--mobile370 clearfix ie_css3" font_ids="36,40">
                                         <!--noindex-->
-                                        <p><span style="font-size: inherit; text-align: inherit; line-height: normal;"><span f_id="roboto_medium" f_uid="40" style="font-family: roboto; font-style: normal; font-weight: 500; font-size: inherit; text-align: inherit; line-height: normal;"><span style="color: #C61900; font-size: inherit; text-align: inherit; line-height: normal;">НАШ АДРЕС</span>
+                                        <p><span style="font-size: inherit; text-align: inherit; line-height: normal;"><span f_uid="40" style="font-family: roboto; font-style: normal; font-weight: 500; font-size: inherit; text-align: inherit; line-height: normal;"><span style="color: #C61900; font-size: inherit; text-align: inherit; line-height: normal;">НАШ АДРЕС</span>
                                                             </span></span><br><span style="color: rgb(255, 255, 255); font-size: inherit; text-align: inherit; line-height: normal;">
-                                                            <span style="font-size: inherit; text-align: inherit; line-height: normal;"><span f_id="roboto_medium" f_uid="40" style="font-family: roboto; font-style: normal; font-weight: 500; font-size: inherit; text-align: inherit; line-height: normal;">​</span>
-                                                                <span f_id="roboto_light" f_uid="30" style="font-family: roboto; font-style: normal; font-weight: 300; font-size: inherit; text-align: inherit; line-height: normal;">03162, м.Київ, вул. Зодчих, 50-А, офіс 1
+                                                            <span style="font-size: inherit; text-align: inherit; line-height: normal;"><span f_uid="40" style="font-family: roboto; font-style: normal; font-weight: 500; font-size: inherit; text-align: inherit; line-height: normal;">​</span>
+                                                                <span f_uid="30" style="font-family: roboto; font-style: normal; font-weight: 300; font-size: inherit; text-align: inherit; line-height: normal;">03162, м.Київ, вул. Зодчих, 50-А, офіс 1
                                                                     <br>+38 068 233 51 33</span>
                                                             </span></span></p>
                                         <!--/noindex-->

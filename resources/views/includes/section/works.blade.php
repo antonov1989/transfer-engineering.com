@@ -17,9 +17,9 @@
                         <div class="td_container_cell" cell_id="f87248d4fa5a4c9eb22e7f7b0f0c9127" data-cell_id="c-f87248d4fa5a4c9eb22e7f7b0f0c9127">
                             <div class="cell v3 container_cell sortable_cell" id="f87248d4fa5a4c9eb22e7f7b0f0c9127">
                                 <div class="blk blk_text blk-no-bg-lpm-449" id="42b37d1c38014be396c37fe9560d1475" blk_class="blk_text" data-id="b-42b37d1c38014be396c37fe9560d1475">
-                                    <div class="blk-data clearfix ie_css3" font_ids="40">
+                                    <div class="blk-data clearfix ie_css3" >
                                         <p><span style="color:#C61900;"><span style="line-height:1;"><span style="font-size:56px;">
-                                 <span f_id="roboto_medium" f_uid="40" style="font-family:roboto;font-style:normal;font-weight:500;">​@lang('main.works_block_header')</span></span></span></span>
+                                 <span f_uid="40" style="font-family:roboto;font-style:normal;font-weight:500;">​@lang('main.works_block_header')</span></span></span></span>
                                         </p>
                                     </div>
                                 </div>
@@ -28,12 +28,12 @@
                         <div class="td_container_cell" cell_id="9bfe811e829e469483d243d99c79ddb6" data-cell_id="c-9bfe811e829e469483d243d99c79ddb6">
                             <div class="cell v3 container_cell sortable_cell" id="9bfe811e829e469483d243d99c79ddb6">
                                 <div class="blk blk_text blk-no-bg-lpm-449" id="e978c4ba7a5c4ec78e435275b98f1f96" blk_class="blk_text" data-id="b-e978c4ba7a5c4ec78e435275b98f1f96">
-                                    <div class="blk-data blk-data--pc clearfix ie_css3" font_ids="36">
-                                        <p><span style="color:#FFFFFF;"><span f_id="roboto_light" f_uid="36" style="font-family:roboto;font-style:normal;font-weight:300;"><span style="font-size:18px;">@lang('main.works_block_text')</span></span></span></p>
+                                    <div class="blk-data blk-data--pc clearfix ie_css3" >
+                                        <p><span style="color:#FFFFFF;"><span f_uid="36" style="font-family:roboto;font-style:normal;font-weight:300;"><span style="font-size:18px;">@lang('main.works_block_text')</span></span></span></p>
                                     </div>
-                                    <div class="blk-data blk-data--mobile370 clearfix ie_css3" font_ids="36">
+                                    <div class="blk-data blk-data--mobile370 clearfix ie_css3" >
                                         <!--noindex-->
-                                        <p><span style="color: rgb(255, 255, 255); font-size: inherit; text-align: inherit; line-height: normal;"><span f_id="roboto_light" f_uid="36" style="font-family: roboto; font-style: normal; font-weight: 300; font-size: inherit; text-align: inherit; line-height: normal;"><span style="font-size: inherit; text-align: inherit; line-height: normal;">@lang('main.works_block_text')</span></span></span></p>
+                                        <p><span style="color: rgb(255, 255, 255); font-size: inherit; text-align: inherit; line-height: normal;"><span f_uid="36" style="font-family: roboto; font-style: normal; font-weight: 300; font-size: inherit; text-align: inherit; line-height: normal;"><span style="font-size: inherit; text-align: inherit; line-height: normal;">@lang('main.works_block_text')</span></span></span></p>
                                         <!--/noindex-->
                                     </div>
                                 </div>
