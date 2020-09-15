@@ -7,7 +7,7 @@ use Illuminate\Http\Request;
 use App\Models\Product\Product;
 use App\Models\Language\Language;
 use App\Services\ProductService;
-//use Intervention\Image\ImageManagerStatic as Image;
+use Intervention\Image\ImageManagerStatic as Image;
 
 class ProductController extends Controller
 {
@@ -97,11 +97,11 @@ class ProductController extends Controller
                 $product->image = $product->alias . '.' . $image->getClientOriginalExtension();
                 if ($image->move(public_path('img/products/page/'), $product->image)) {
                     $product->save();
+    
+                    $image_resize = Image::make(public_path('img/products/page/') . $product->image);
+                    $image_resize->resize(352, 230);
+                    $image_resize->save(public_path('img/products/list/' . $product->image));
                 }
-
-                /*$image_resize = Image::make($image->getRealPath());
-                $image_resize->resize(352, 230);
-                $image_resize->save(public_path('img/products/list/' . $product->image));*/
             }
 
             $this->service->updateTranslations($product, $request);
