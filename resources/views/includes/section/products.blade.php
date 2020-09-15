@@ -46,6 +46,7 @@
                                                      pc-adapt="/img/products/Винтовой насос.png"
                                                      medium-style-w="330"
                                                      alt="@lang('main.products_item_title1')"
+                                                     title="@lang('main.products_item_title1')"
                                                      oncontextmenu="return false;"
                                                      ondragstart="return false;"
                                                      src="/img/products/Винтовой насос.png">
@@ -79,6 +80,7 @@
                                                      pc-adapt="/img/products/Двухвинтовой насос.png"
                                                      medium-style-w="330"
                                                      alt="@lang('main.products_item_title2')"
+                                                     title="@lang('main.products_item_title2')"
                                                      oncontextmenu="return false;"
                                                      ondragstart="return false;"
                                                      src="/img/products/Двухвинтовой насос.png">
@@ -109,6 +111,7 @@
                                                      pc-adapt="/img/products/Пневматический мембранный насос.png"
                                                      medium-style-w="330"
                                                      alt="@lang('main.products_item_title3')"
+                                                     title="@lang('main.products_item_title3')"
                                                      oncontextmenu="return false;"
                                                      ondragstart="return false;"
                                                      src="/img/products/Пневматический мембранный насос.png">
@@ -153,6 +156,7 @@
                                                      pc-adapt="/img/products/Перистальтический насос.png"
                                                      medium-style-w="330"
                                                      alt="@lang('main.products_item_title4')"
+                                                     title="@lang('main.products_item_title4')"
                                                      oncontextmenu="return false;"
                                                      ondragstart="return false;"
                                                      src="/img/products/Перистальтический насос.png">
@@ -183,6 +187,7 @@
                                                      pc-adapt="/img/products/Центробежный насос.png"
                                                      medium-style-w="330"
                                                      alt="@lang('main.products_item_title5')"
+                                                     title="@lang('main.products_item_title5')"
                                                      oncontextmenu="return false;"
                                                      ondragstart="return false;"
                                                      src="/img/products/Центробежный насос.png">
@@ -213,6 +218,7 @@
                                                      pc-adapt="/img/products/Кулачковый насос.png"
                                                      medium-style-w="330"
                                                      alt="@lang('main.products_item_title6')"
+                                                     title="@lang('main.products_item_title6')"
                                                      oncontextmenu="return false;"
                                                      ondragstart="return false;"
                                                      src="/img/products/Кулачковый насос.png">
@@ -256,6 +262,7 @@
                                                      pc-adapt="/img/products/Шестеренный насос.png"
                                                      medium-style-w="330"
                                                      alt="@lang('main.products_item_title7')"
+                                                     title="@lang('main.products_item_title7')"
                                                      oncontextmenu="return false;"
                                                      ondragstart="return false;"
                                                      src="/img/products/Шестеренный насос.png">
@@ -286,6 +293,7 @@
                                                      pc-adapt="/img/products/Химический насос.png"
                                                      medium-style-w="330"
                                                      alt="@lang('main.products_item_title8')"
+                                                     title="@lang('main.products_item_title8')"
                                                      oncontextmenu="return false;"
                                                      ondragstart="return false;"
                                                      src="/img/products/Химический насос.png">
@@ -316,6 +324,7 @@
                                                      pc-adapt="/img/products/Дозирующий насос.png"
                                                      medium-style-w="330"
                                                      alt="@lang('main.products_item_title9')"
+                                                     title="@lang('main.products_item_title9')"
                                                      oncontextmenu="return false;"
                                                      ondragstart="return false;"
                                                      src="/img/products/Дозирующий насос.png">
@@ -352,6 +361,7 @@
                                                      pc-adapt="/img/products/Диспергатор ротор-статор.png"
                                                      medium-style-w="330"
                                                      alt="@lang('main.products_item_title10')"
+                                                     title="@lang('main.products_item_title10')"
                                                      oncontextmenu="return false;"
                                                      ondragstart="return false;"
                                                      src="/img/products/Диспергатор ротор-статор.png">
@@ -382,6 +392,7 @@
                                                      pc-adapt="/img/products/Гомогенизатор.png"
                                                      medium-style-w="330"
                                                      alt="@lang('main.products_item_title11')"
+                                                     title="@lang('main.products_item_title11')"
                                                      oncontextmenu="return false;"
                                                      ondragstart="return false;"
                                                      src="/img/products/Гомогенизатор.png">
@@ -412,6 +423,7 @@
                                                      pc-adapt="/img/products/Теплообменник.png"
                                                      medium-style-w="330"
                                                      alt="@lang('main.products_item_title12')"
+                                                     title="@lang('main.products_item_title12')"
                                                      oncontextmenu="return false;"
                                                      ondragstart="return false;"
                                                      src="/img/products/Теплообменник.png">
