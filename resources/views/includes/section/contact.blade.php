@@ -1,4 +1,4 @@
-<div blk_class="section" class=" blk_section block-content bg_type_map sprint4 " data-par-speed="" id="cbe82f7fb2e644a79bfcfb07cef6f689" data-id="s-cbe82f7fb2e644a79bfcfb07cef6f689" bg_type="map" data-map-address="г. Киев ул. Маячковский бульвар 1А" data-map-longitude="37.751134" data-map-latitude="55.658363">
+<div blk_class="section" class=" blk_section block-content bg_type_map sprint4 " data-par-speed="" id="cbe82f7fb2e644a79bfcfb07cef6f689" data-id="s-cbe82f7fb2e644a79bfcfb07cef6f689">
     <div class="section_image_container">
         <div id="section_image_cbe82f7fb2e644a79bfcfb07cef6f689" class="section-image " style=" background-position: 50% 0%; background-repeat: no-repeat; "></div>
     </div>
