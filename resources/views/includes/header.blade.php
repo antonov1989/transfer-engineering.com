@@ -13,14 +13,14 @@
                        <div class="td_container_cell item_logo" cell_id="3db52d2e8a7942449e45708c059cc0d2" data-cell_id="c-3db52d2e8a7942449e45708c059cc0d2">
                            <div class="cell v3 container_cell sortable_cell first_cell" id="3db52d2e8a7942449e45708c059cc0d2">
                                <div class="blk blk_text blk-no-bg-lpm-449" id="669510f361b94a9d815e95e29b97c203" blk_class="blk_text" data-id="b-669510f361b94a9d815e95e29b97c203">
-                                   <div class="blk-data blk-data--pc clearfix ie_css3" >
+                                   <a class="blk-data blk-data--pc clearfix ie_css3" href="{{ route('home') }}">
                                        <img src="/img/logo.png" alt="Transfer Engineering"
                                             style="max-width: auto; width: 170px;" />
-                                   </div>
-                                   <div class="blk-data blk-data--mobile370 clearfix ie_css3" >
+                                   </a>
+                                   <a class="blk-data blk-data--mobile370 clearfix ie_css3" href="{{ route('home') }}">
                                        <img src="/img/logo.png" alt="Transfer Engineering"
                                             style="max-width: auto; width: 170px;" />
-                                   </div>
+                                   </a>
                                </div>
                            </div>
                        </div>
@@ -65,12 +65,19 @@
                        <div class="td_container_cell item_lang_menu" cell_id="8042dd56d3fd4e149334336034102109" data-cell_id="c-8042dd56d3fd4e149334336034102109">
                            <div class="cell v3 container_cell sortable_cell" id="8042dd56d3fd4e149334336034102109">
                                <div id="lang_box">
+                                   @if (isset($currentLanguage) && isset($altLocalizedUrls))
                                    <select onchange="window.location.href = this.value"
                                            style="width: 60px">
-                                       <option value="/en"{{ isset($currentLanguage) && $currentLanguage['locale'] === 'en' ? ' selected="selected"' : '' }}>EN</option>
-                                       <option value="/uk"{{ isset($currentLanguage) && $currentLanguage['locale'] === 'uk' ? ' selected="selected"' : '' }}>UA</option>
-                                       <option value="/ru"{{ isset($currentLanguage) && $currentLanguage['locale'] === 'ru' ? ' selected="selected"' : '' }}>RU</option>
+                                       <option value="{{ $currentLanguage['url'] }}">
+                                           {{ strtoupper($currentLanguage['locale']) }}
+                                       </option>
+                                       @foreach($altLocalizedUrls as $locale)
+                                            <option value="{{ $locale['url'] }}">
+                                                {{ strtoupper($locale['locale']) }}
+                                            </option>
+                                       @endforeach
                                    </select>
+                                   @endif
                                </div>
                            </div>
                        </div>

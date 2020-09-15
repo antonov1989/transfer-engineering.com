@@ -19,7 +19,7 @@
                                 <th class="sortable sorting">Active</th>
                                 <td>Alias</td>            
                                 <td>Name</td>
-                                <td width="1"></td>
+                                <td width="100"></td>
                             </tr>
                         </thead>
                         <tbody>
@@ -31,7 +31,10 @@
                                     <td>{{ $product->name }}</td>
                                     <td>
                                         <a class="btn btn-success btn-sm ad-click-event" href="{{ route('admin.productEdit', ['id' => $product->id]) }}">Edit</a>
-                                    </td>           
+                                        <a class="btn btn-success btn-sm ad-click-event" target="_blank" href="{{ route('product', ['alias' => $product->alias]) }}">
+                                            Preview
+                                        </a>
+                                    </td>
                                 </tr>
                             @endforeach
                         </tbody>
