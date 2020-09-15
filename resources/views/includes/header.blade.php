@@ -26,42 +26,44 @@
                        </div>
                        <div class="td_container_cell" cell_id="456e4b27c9fd43a89c65ed9a849d2b6f" data-cell_id="c-456e4b27c9fd43a89c65ed9a849d2b6f">
                        </div>
-                       <div class="td_container_cell item_menu" cell_id="68b98ca5847649be9dd928d6bee778e3" data-cell_id="c-68b98ca5847649be9dd928d6bee778e3">
-                           <div class="cell v3 container_cell sortable_cell" id="68b98ca5847649be9dd928d6bee778e3">
-                               <div class="blk blk_button " id="c40de20b080940668aac724f7d5ac098" blk_class="blk_button" data-id="b-c40de20b080940668aac724f7d5ac098">
-                                   <div class="blk-data clearfix ie_css3">
-                                       <div class="blk_button_data_wrap c_text ">
-                                           <a class="btn-new block-content ie_css3 " act="anchor"
-                                              href="#718ce204f4464f979714bbc073d4c653" onclick=""
-                                              data-action-name="anchor" style="">@lang('main.header_button_aboutus')</a></div>
+                       @if (!isset($menu) || $menu !== false)
+                           <div class="td_container_cell item_menu" cell_id="68b98ca5847649be9dd928d6bee778e3" data-cell_id="c-68b98ca5847649be9dd928d6bee778e3">
+                               <div class="cell v3 container_cell sortable_cell" id="68b98ca5847649be9dd928d6bee778e3">
+                                   <div class="blk blk_button " id="c40de20b080940668aac724f7d5ac098" blk_class="blk_button" data-id="b-c40de20b080940668aac724f7d5ac098">
+                                       <div class="blk-data clearfix ie_css3">
+                                           <div class="blk_button_data_wrap c_text ">
+                                               <a class="btn-new block-content ie_css3 " act="anchor"
+                                                  href="#718ce204f4464f979714bbc073d4c653" onclick=""
+                                                  data-action-name="anchor" style="">@lang('main.header_button_aboutus')</a></div>
+                                       </div>
                                    </div>
                                </div>
                            </div>
-                       </div>
-                       <div class="td_container_cell item_menu" cell_id="143555b35de443ad81f02f7af5987154" data-cell_id="c-143555b35de443ad81f02f7af5987154">
-                           <div class="cell v3 container_cell sortable_cell" id="143555b35de443ad81f02f7af5987154">
-                               <div class="blk blk_button " id="e9e882b105254e84ab0e574ee4de1344" blk_class="blk_button" data-id="b-e9e882b105254e84ab0e574ee4de1344">
-                                   <div class="blk-data clearfix ie_css3">
-                                       <div class="blk_button_data_wrap c_text ">
-                                           <a class="btn-new block-content ie_css3 "
-                                              act="anchor" href="#7ea86375a9a9414b9ab479e42a640208" onclick=""
-                                              data-action-name="anchor" style="">@lang('main.header_button_Products')</a></div>
+                           <div class="td_container_cell item_menu" cell_id="143555b35de443ad81f02f7af5987154" data-cell_id="c-143555b35de443ad81f02f7af5987154">
+                               <div class="cell v3 container_cell sortable_cell" id="143555b35de443ad81f02f7af5987154">
+                                   <div class="blk blk_button " id="e9e882b105254e84ab0e574ee4de1344" blk_class="blk_button" data-id="b-e9e882b105254e84ab0e574ee4de1344">
+                                       <div class="blk-data clearfix ie_css3">
+                                           <div class="blk_button_data_wrap c_text ">
+                                               <a class="btn-new block-content ie_css3 "
+                                                  act="anchor" href="#7ea86375a9a9414b9ab479e42a640208" onclick=""
+                                                  data-action-name="anchor" style="">@lang('main.header_button_Products')</a></div>
+                                       </div>
                                    </div>
                                </div>
                            </div>
-                       </div>
-                       <div class="td_container_cell item_menu" cell_id="8042dd56d3fd4e149334336034102109" data-cell_id="c-8042dd56d3fd4e149334336034102109">
-                           <div class="cell v3 container_cell sortable_cell" id="8042dd56d3fd4e1493343360341021091">
-                               <div class="blk blk_button " id="4aeca838369d46c18219de513e2b7e3c" blk_class="blk_button" data-id="b-4aeca838369d46c18219de513e2b7e3c">
-                                   <div class="blk-data clearfix ie_css3">
-                                       <div class="blk_button_data_wrap r_text ">
-                                           <a class="btn-new block-content ie_css3 " act="anchor"
-                                              href="#cbe82f7fb2e644a79bfcfb07cef6f689" onclick=""
-                                              data-action-name="anchor" style="">@lang('main.header_button_contact')</a></div>
+                           <div class="td_container_cell item_menu" cell_id="8042dd56d3fd4e149334336034102109" data-cell_id="c-8042dd56d3fd4e149334336034102109">
+                               <div class="cell v3 container_cell sortable_cell" id="8042dd56d3fd4e1493343360341021091">
+                                   <div class="blk blk_button " id="4aeca838369d46c18219de513e2b7e3c" blk_class="blk_button" data-id="b-4aeca838369d46c18219de513e2b7e3c">
+                                       <div class="blk-data clearfix ie_css3">
+                                           <div class="blk_button_data_wrap r_text ">
+                                               <a class="btn-new block-content ie_css3 " act="anchor"
+                                                  href="#cbe82f7fb2e644a79bfcfb07cef6f689" onclick=""
+                                                  data-action-name="anchor" style="">@lang('main.header_button_contact')</a></div>
+                                       </div>
                                    </div>
                                </div>
                            </div>
-                       </div>
+                       @endif
                        <div class="td_container_cell item_lang_menu" cell_id="8042dd56d3fd4e149334336034102109" data-cell_id="c-8042dd56d3fd4e149334336034102109">
                            <div class="cell v3 container_cell sortable_cell" id="8042dd56d3fd4e149334336034102109">
                                <div id="lang_box">
