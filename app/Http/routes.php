@@ -26,6 +26,8 @@ $localizer = \App::make(\App\Helpers\UriLocalizer::class);
 
 Route::group(['prefix' => $localizer->localeFromRequest(), 'middleware' => 'localize'], function () {
     Route::get('/', 'HomeController@index')->name('home');
+
+    Route::get('/product/{id}.html', 'ProductController@index')->name('product');
 });
 
 Route::post('/api/sendMessage', 'HomeController@sendMessage')->name('sendMessage');

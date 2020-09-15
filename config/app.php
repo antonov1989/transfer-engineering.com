@@ -157,7 +157,7 @@ return [
         //Frozennode\Administrator\AdministratorServiceProvider::class,
     
         Waavi\Translation\TranslationServiceProvider::class,
-
+        //Intervention\Image\ImageServiceProvider::class
     ],
 
     /*
@@ -213,6 +213,7 @@ return [
          */
         'Cart'      => Gloudemans\Shoppingcart\Facades\Cart::class,
         'Form'      => Collective\Html\FormFacade::class, 
-        'Html'      => Collective\Html\HtmlFacade::class
+        'Html'      => Collective\Html\HtmlFacade::class,
+        //'Image' => Intervention\Image\ImageManagerStatic::class
     ],
 ];

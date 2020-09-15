@@ -11,7 +11,8 @@
         "jeroennoten/laravel-adminlte": "^1.23",
         "laravelcollective/html": "^5.1",
         "doctrine/inflector": "1.1.0",
-        "waavi/translation": "2.1.x"
+        "waavi/translation": "2.1.x",
+        "intervention/image": "^2.5"
     },
     "require-dev": {
         "fzaninotto/faker": "~1.4",

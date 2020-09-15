@@ -191,56 +191,5 @@ class TranslationsController extends Controller
         }
     }
 
-    /**
-     * @param Language $language
-     * @param UpdateLanguageRequest|CreateLanguageRequest $request
-     * @param string $type
-     * @return LanguageValueObject
-     */
-    private function getDataForValueObj(Language $language, $request, $type = 'create')
-    {
-        $translationObj = [];
-        $translations = $request->get('translations');
-        foreach ($translations as $group)
-        {
-            foreach ($group as $item => $translation)
-            {
-                if ($type === 'edit')
-                {
-                    if ($translation['text'] || $translation['id'])
-                    {
-                        $translationObj[] = new TranslationValueObject([
-                            'id'    => (int)$translation['id'],
-                            'text'  => isset($translation['text']) ? $translation['text'] : '',
-                            'group' => $translation['group'],
-                            'item'  => $item
-                        ]);
-                    }
-                }
-                else
-                if ($type === 'create')
-                {
-                    if ($translation['text'])
-                    {
-                        $translationObj[] = new TranslationValueObject([
-                            'id'    => (int)$translation['id'],
-                            'text'  => isset($translation['text']) ? $translation['text'] : '',
-                            'group' => $translation['group'],
-                            'item'  => $item
-                        ]);
-                    }
-                }
-            }
-        }
-        $languageValueObj = new LanguageValueObject([
-            'id'           => $language->id,
-            'name'         => $request['name'],
-            'short_name'   => $request['short_name'],
-            'locale'       => $request['locale'],
-            'enabled'      => isset($request['enabled'])? 1: 0,
-            'translations' => $translationObj,
-        ]);
 
-        return $languageValueObj;
-    }
 }

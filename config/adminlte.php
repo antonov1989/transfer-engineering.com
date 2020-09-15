@@ -119,12 +119,13 @@ return [
             'url'  => 'admin/xorders',
             'icon'  => 'list',
         ],
-        /*[
-            'text'        => 'Стадионы',
-            'url'         => 'admin/stadiums',
-            'icon'        => 'futbol-o',
-        ],
         [
+            'text'        => 'Products',
+            'url'         => 'admin/products',
+            'icon'        => 'book',
+            //'icon'        => 'futbol-o',
+        ],
+        /*[
             'text'        => 'Заказы',
             'url'         => 'admin/orders',
             'icon'        => 'shopping-bag',

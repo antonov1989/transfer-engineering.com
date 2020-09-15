@@ -8,3 +8,5 @@ _ide_helper.php
 /bootstrap/cache
 /public/.htaccess
 /public/.htpasswd
+/public/img/products/list/*
+/public/img/products/page/*
