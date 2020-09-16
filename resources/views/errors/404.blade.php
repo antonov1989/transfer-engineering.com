@@ -1,53 +1,138 @@
 <!DOCTYPE html>
-<html>
-    <head>
-        <title>404 - Page not found</title>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 
-        <link href="https://fonts.googleapis.com/css?family=Lato:100" rel="stylesheet" type="text/css">
+    <title>Transfer Engineering 404 - Page not found</title>
 
-        <style>
-            html, body {
-                height: 100%;
+    <style>
+        * {
+            -webkit-box-sizing: border-box;
+            box-sizing: border-box;
+        }
+
+        body {
+            padding: 0;
+            margin: 0;
+        }
+
+        #notfound {
+            position: relative;
+            height: 100vh;
+        }
+
+        #notfound .notfound {
+            position: absolute;
+            left: 50%;
+            top: 50%;
+            -webkit-transform: translate(-50%, -50%);
+            -ms-transform: translate(-50%, -50%);
+            transform: translate(-50%, -50%);
+        }
+
+        .notfound {
+            max-width: 520px;
+            width: 100%;
+            line-height: 1.4;
+            text-align: center;
+        }
+
+        .notfound .notfound-404 {
+            position: relative;
+            height: 240px;
+        }
+
+        .notfound .notfound-404 h1 {
+            font-family: 'Montserrat', sans-serif;
+            position: absolute;
+            left: 50%;
+            top: 50%;
+            -webkit-transform: translate(-50%, -50%);
+            -ms-transform: translate(-50%, -50%);
+            transform: translate(-50%, -50%);
+            font-size: 252px;
+            font-weight: 900;
+            margin: 0px;
+            color: #262626;
+            text-transform: uppercase;
+            letter-spacing: -40px;
+            margin-left: -20px;
+        }
+
+        .notfound .notfound-404 h1>span {
+            text-shadow: -8px 0px 0px #fff;
+        }
+
+        .notfound .notfound-404 h3 {
+            font-family: 'Cabin', sans-serif;
+            position: relative;
+            font-size: 16px;
+            font-weight: 700;
+            text-transform: uppercase;
+            color: #262626;
+            margin: 0px;
+            letter-spacing: 3px;
+            padding-left: 6px;
+        }
+
+        .notfound h2,
+        .gotolink {
+            font-family: 'Cabin', sans-serif;
+            font-size: 20px;
+            font-weight: 400;
+            text-transform: uppercase;
+            color: #000;
+            margin-top: 0px;
+            margin-bottom: 25px;
+        }
+        .gotolink {
+            text-decoration: none;
+            color: #C61900;
+        }
+
+        @media only screen and (max-width: 767px) {
+            .notfound .notfound-404 {
+                height: 200px;
             }
-
-            body {
-                margin: 0;
-                padding: 0;
-                width: 100%;
-                color: #B0BEC5;
-                display: table;
-                font-weight: 300;
-                font-family: 'Lato';
+            .notfound .notfound-404 h1 {
+                font-size: 200px;
             }
+        }
 
-            .container {
-                text-align: center;
-                display: table-cell;
-                vertical-align: middle;
+        @media only screen and (max-width: 480px) {
+            .notfound .notfound-404 {
+                height: 162px;
             }
-
-            .content {
-                text-align: center;
-                display: inline-block;
+            .notfound .notfound-404 h1 {
+                font-size: 162px;
+                height: 150px;
+                line-height: 162px;
             }
-
-            .title {
-                font-size: 72px;
-                margin-bottom: 40px;
-            }
-            a {
+            .notfound h2,
+            .gotolink {
                 font-size: 16px;
-                font-weight: bold;
             }
-        </style>
-    </head>
-    <body>
-        <div class="container">
-            <div class="content">
-                <div class="title">404 - Page not found</div>
-                <br />
-                <a href="/">Go to the site</a>
+        }
+    </style>
+
+</head>
+
+<body>
+
+    <div id="notfound">
+        <div class="notfound">
+            <div class="notfound-404">
+                <h3>Oops! Page not found</h3>
+                <h1><span>4</span><span>0</span><span>4</span></h1>
             </div>
+            <h2>we are sorry, but the page you requested was not found</h2>
+            <a class="gotolink" href="{{ route('home') }}">Go To the SITE</a>
         </div>
-    </body>
+    </div>
+
+</body><!-- This templates was made by Colorlib (https://colorlib.com) -->
+
 </html>
