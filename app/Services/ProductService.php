@@ -5,6 +5,7 @@ namespace App\Services;
 use App\Models\Product\Product;
 use App\Models\Product\Translation;
 use App\ValueObjects\Admin\Product\TranslationValueObject;
+use Illuminate\Support\Facades\DB;
 
 class ProductService
 {
@@ -47,5 +48,20 @@ class ProductService
 
         //var_dump($product_translation); exit;
         return $product_translation;
+    }
+
+    public static function getProductList()
+    {
+        $locale = app()->getLocale();
+
+        $products = DB::table('products')
+            ->join('product_translations', 'products.id', '=', 'product_translations.product_id')
+            ->where('product_translations.locale', '=', $locale)
+            ->where('products.active', '=', 1)
+            ->select('products.*', 'product_translations.h1 AS title')
+            ->orderby('products.id')
+            ->get();
+
+        return $products;
     }
 }

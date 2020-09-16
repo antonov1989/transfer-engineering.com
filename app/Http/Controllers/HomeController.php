@@ -8,7 +8,7 @@
 
 namespace App\Http\Controllers;
 
-use App\Models\Product\Product;
+use App\Services\ProductService;
 use App\Services\TelegramService;
 use Illuminate\Http\Request;
 use App\Models\Xorder;
@@ -17,8 +17,10 @@ class HomeController extends Controller
 {
     public function index()
     {
+        $productList = ProductService::getProductList();
+
         return view('home.index')->with([
-            //'meta' => Product::getPageByAlias('home')
+            'productList' => $productList
         ]);
     }
     

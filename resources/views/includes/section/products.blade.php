@@ -32,7 +32,70 @@
                     </div>
                 </div>
             </div>
-            <div blk_class="blk_container" class="blk_container v3 cnt-cells-3 orange_cell_resize " id="711d63176f894b568686f6b007b47d65" data-id="b-711d63176f894b568686f6b007b47d65" type_id="" pos="6">
+            @if ($productList)
+                <div blk_class="blk_container" class="blk_container v3 cnt-cells-3 orange_cell_resize " id="711d63176f894b568686f6b007b47d65" data-id="b-711d63176f894b568686f6b007b47d65">
+                    <div class="blk_container_cells_wrap">
+                        <div class="blk_container_cells cells-3">
+                            @foreach ($productList as $key => $product)
+                                @if ($key !== 0 && $key % 3 === 0)
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="blk blk_divider " id="products-line-{{ $key }}" blk_class="blk_divider" data-id="b-06c6dcba6a324194bf4dfe13a39eec54">
+                                        <div class="blk-data clearfix ie_css3">
+                                            <div class="blk_divider_self no_text no_sel no_divider_line">
+                                                <div class="divider-line "></div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div blk_class="blk_container" class="blk_container v3 cnt-cells-3 orange_cell_resize " id="products-{{ $key }}" data-id="b-711d63176f894b568686f6b007b47d65">
+                                        <div class="blk_container_cells_wrap">
+                                            <div class="blk_container_cells cells-3">
+                                @endif
+                                <figure class="td_container_cell" cell_id="0637d6b346c6441fab1dadc10cb7be0d" data-cell_id="c-0637d6b346c6441fab1dadc10cb7be0d">
+                                    <div class="cell v3 container_cell sortable_cell first_cell" id="product-item-{{ $product->id }}">
+                                        <div class="blk blk_image_ext " id="product-item2-{{ $product->id }}" blk_class="blk_image_ext" data-id="b-63ab84a015744ddd8c303251c3c70978">
+                                            <div class="blk-data clearfix ie_css3">
+                                                <div class="blk_image_data_wrap no_sel c_text">
+                                                    <a class="img_container block-content" href="{{ route('product', ['alias' => $product->alias]) }}">
+                                                        <img class=""
+                                                             original-src="{!! asset('/img/products/list/' . $product->image) !!}"
+                                                             pc-adapt="{!! asset('/img/products/list/' . $product->image) !!}"
+                                                             medium-style-w="330"
+                                                             alt="@if($product->title){{ $product->title }}@else{{ $product->name }}@endif"
+                                                             title="@if($product->title){{ $product->title }}@else{{ $product->name }}@endif"
+                                                             oncontextmenu="return false;"
+                                                             ondragstart="return false;"
+                                                             src="{!! asset('/img/products/list/' . $product->image) !!}">
+                                                    </a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="blk blk_text blk-no-bg-lpm-449" id="product-title-{{ $product->id }}" blk_class="blk_text" data-id="b-492065d59c68496b91e097e2a39ed5e5">
+                                            <div class="blk-data blk-data--pc clearfix ie_css3" >
+                                                <div style="text-align:center">
+                                                    <a style="font-size:22px;color: #1C337C" href="{{ route('product', ['alias' => $product->alias]) }}">
+                                                        <figcaption  style="font-family: roboto; font-style: normal; font-weight: 300;">@if($product->title){{ $product->title }}@else{{ $product->name }}@endif</figcaption>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                            <div class="blk-data blk-data--mobile370 clearfix ie_css3" >
+                                                <!--noindex-->
+                                                <div style="text-align: inherit; font-size: inherit; line-height: normal;">
+                                                    <a style="font-size: inherit; text-align: inherit; line-height: normal;color: #1C337C" href="{{ route('product', ['alias' => $product->alias]) }}">
+                                                        <figcaption style="font-family: roboto; font-style: normal; font-weight: 300; font-size: inherit; text-align: inherit; line-height: normal;">@if($product->title){{ $product->title }}@else{{ $product->name }}@endif</figcaption></a></div>
+                                                <!--/noindex-->
+                                            </div>
+                                        </div>
+                                    </div>
+                                </figure>
+                            @endforeach
+                        </div>
+                    </div>
+                </div>
+            @endif
+            {{--
+            <div blk_class="blk_container" class="blk_container v3 cnt-cells-3 orange_cell_resize " id="711d63176f894b568686f6b007b47d65" data-id="b-711d63176f894b568686f6b007b47d65">
                 <div class="blk_container_cells_wrap">
                     <div class="blk_container_cells cells-3">
                         <figure class="td_container_cell" cell_id="0637d6b346c6441fab1dadc10cb7be0d" data-cell_id="c-0637d6b346c6441fab1dadc10cb7be0d">
@@ -533,6 +596,7 @@
                     </div>
                 </div>
             </div>
+            --}}
         </article>
     </div>
 </div>

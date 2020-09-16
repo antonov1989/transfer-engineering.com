@@ -168,3 +168,10 @@ select {
     background-image: url('../img/theme/Механика-min.jpg');
   }
 }
+
+.product-page-content,
+.product-page-content *,
+.product-page-content p {
+  font-family:roboto;font-style:normal;font-weight:300;
+  font-size:18px;line-height: 25px
+}
