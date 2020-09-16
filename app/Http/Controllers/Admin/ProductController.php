@@ -60,6 +60,9 @@ class ProductController extends Controller
     {
         $product = new Product();
         $data = $request->all();
+    
+        $image = $request->file('image');
+        unset($data['image']);
 
         $product->fill($data);
         
@@ -68,6 +71,17 @@ class ProductController extends Controller
                 ->withInput()
                 ->with('notifications', ['type' => 'error', 'message' => 'Save error']);
         } else {
+            if ($image) {
+                $product->image = $product->alias . '.' . $image->getClientOriginalExtension();
+                if ($image->move(public_path('img/products/page/'), $product->image)) {
+                    $product->save();
+            
+                    $image_resize = Image::make(public_path('img/products/page/') . $product->image);
+                    $image_resize->resize(352, 230);
+                    $image_resize->save(public_path('img/products/list/' . $product->image));
+                }
+            }
+            
             $this->service->updateTranslations($product, $request);
 
             return redirect()->route('admin.products')

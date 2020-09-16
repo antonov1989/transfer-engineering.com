@@ -38,7 +38,7 @@
         <div class="form-group">
             {!! Form::label('', 'Image', ['class' => 'col-md-2 col-sm-2 control-label status-form-label']) !!}
             <div class="col-md-10 col-sm-8">
-                @if($product->image)
+                @if(!empty($product->image))
                     <img width="100" src="/img/products/page/{{ $product->image }}" />
                 @endif
                 <input type="file" name="image">
