@@ -1,6 +1,7 @@
 <?php
 
 return [
+    'home' => 'Home',
     'page_h1' => 'Transfer Engineering page title',
     'button_call_back' => 'Call back',
     'header_button_aboutus' => 'About Us',

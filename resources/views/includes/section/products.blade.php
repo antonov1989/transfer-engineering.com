@@ -94,6 +94,7 @@
                     </div>
                 </div>
             @endif
+
             {{--
             <div blk_class="blk_container" class="blk_container v3 cnt-cells-3 orange_cell_resize " id="711d63176f894b568686f6b007b47d65" data-id="b-711d63176f894b568686f6b007b47d65">
                 <div class="blk_container_cells_wrap">
@@ -509,6 +510,8 @@
                     </div>
                 </div>
             </div>
+            --}}
+
             <div class="blk blk_form blk_form_popover" id="5360d24c7af04e3a923ac5f7c477241c1" blk_class="blk_form" data-id="b-5360d24c7af04e3a923ac5f7c477241c1">
                 <div class="blk-data clearfix ie_css3">
                     <div class="blk_form_wrap c_text is_popover">
@@ -596,7 +599,6 @@
                     </div>
                 </div>
             </div>
-            --}}
         </article>
     </div>
 </div>

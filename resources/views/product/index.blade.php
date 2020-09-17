@@ -12,6 +12,11 @@
             <div blk_class="section" class=" blk_section block-content sprint4">
 
                 <div class="mha clearfix blk_section_inner" style="padding: 15px">
+                    <ul class="breadcrumb">
+                        <li><a href="{{ route('home') }}">@lang('main.home')</a></li>
+                        <li>{{ $translation->h1 }}</li>
+                    </ul>
+
                     <h1>{{ $translation->h1 }}</h1>
 
                     @if ($product->image)
