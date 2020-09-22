@@ -59,6 +59,7 @@
                                                 <div class="blk_image_data_wrap no_sel c_text">
                                                     <a class="img_container block-content" href="{{ route('product', ['alias' => $product->alias]) }}">
                                                         <img class=""
+                                                             loading="lazy"
                                                              original-src="{!! asset('/img/products/list/' . $product->image) !!}"
                                                              pc-adapt="{!! asset('/img/products/list/' . $product->image) !!}"
                                                              medium-style-w="330"

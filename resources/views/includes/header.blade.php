@@ -14,11 +14,11 @@
                            <div class="cell v3 container_cell sortable_cell first_cell" id="3db52d2e8a7942449e45708c059cc0d2">
                                <div class="blk blk_text blk-no-bg-lpm-449" id="669510f361b94a9d815e95e29b97c203" blk_class="blk_text" data-id="b-669510f361b94a9d815e95e29b97c203">
                                    <a class="blk-data blk-data--pc clearfix ie_css3" href="{{ route('home') }}">
-                                       <img src="/img/logo.png" alt="Transfer Engineering"
+                                       <img src="/img/logo.png" loading="lazy" alt="Transfer Engineering"
                                             style="max-width: auto; width: 170px;" />
                                    </a>
                                    <a class="blk-data blk-data--mobile370 clearfix ie_css3" href="{{ route('home') }}">
-                                       <img src="/img/logo.png" alt="Transfer Engineering"
+                                       <img src="/img/logo.png" loading="lazy" alt="Transfer Engineering"
                                             style="max-width: auto; width: 170px;" />
                                    </a>
                                </div>
